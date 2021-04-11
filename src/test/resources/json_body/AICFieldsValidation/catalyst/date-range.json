@@ -1,0 +1,18 @@
+[
+    {
+        "label": "Past 30 Days",
+        "value": "past30days" 
+    },
+    {
+        "label": "Past 6 Months",
+        "value": "past6months" 
+    },
+    {
+        "label": "Past Year",
+        "value": "pastYear" 
+    },
+    {
+        "label": "Custom",
+        "value": "custom" 
+    }
+]

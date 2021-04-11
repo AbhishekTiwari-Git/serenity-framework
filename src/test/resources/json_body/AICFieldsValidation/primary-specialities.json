@@ -1,0 +1,1586 @@
+{
+    "items": [
+        {
+            "value": "A",
+            "label": "Allergy",
+            "specialtyGroup": "AI",
+            "specialtyAlert": "nejmAllergyImmunology"
+        },
+        {
+            "value": "AI",
+            "label": "Allergy & Immunology",
+            "specialtyGroup": "AI",
+            "specialtyAlert": "nejmAllergyImmunology"
+        },
+        {
+            "value": "IG",
+            "label": "Immunology",
+            "specialtyGroup": "AI",
+            "specialtyAlert": "nejmAllergyImmunology"
+        },
+        {
+            "value": "ACA",
+            "label": "Adult Cardiothoracic Anesthesiology",
+            "specialtyGroup": "AN",
+            "specialtyAlert": "nejmEmergencyMedicine"
+        },
+        {
+            "value": "AN",
+            "label": "Anesthesiology",
+            "specialtyGroup": "AN",
+            "specialtyAlert": "nejmEmergencyMedicine"
+        },
+        {
+            "value": "CCA",
+            "label": "Critical Care Medicine (Anesthesiology)",
+            "specialtyGroup": "CCM",
+            "specialtyAlert": "nejmPulmonaryCriticalCare"
+        },
+        {
+            "value": "CD",
+            "label": "Cardiovascular Disease",
+            "specialtyGroup": "CD",
+            "specialtyAlert": "nejmCardiology"
+        },
+        {
+            "value": "IC",
+            "label": "Interventional Cardiology",
+            "specialtyGroup": "CD",
+            "specialtyAlert": "nejmCardiology"
+        },
+        {
+            "value": "ICE",
+            "label": "Clinical Cardiac Electrophysiology",
+            "specialtyGroup": "CD",
+            "specialtyAlert": "nejmCardiology"
+        },
+        {
+            "value": "NC",
+            "label": "Nuclear Cardiology",
+            "specialtyGroup": "CD",
+            "specialtyAlert": "nejmCardiology"
+        },
+        {
+            "value": "PDC",
+            "label": "Pediatric Cardiology",
+            "specialtyGroup": "MPD",
+            "specialtyAlert": "nejmPediatrics"
+        },
+        {
+            "value": "CPP",
+            "label": "Pediatric/Psych/Child Adolescent Psych",
+            "specialtyGroup": "MPD",
+            "specialtyAlert": "nejmPediatrics"
+        },
+        {
+            "value": "EFM",
+            "label": "Emergency Medicine/Family Medicine",
+            "specialtyGroup": "EM",
+            "specialtyAlert": "nejmEmergencyMedicine"
+        },
+        {
+            "value": "EMP",
+            "label": "Pediatrics/Emergency Medicine",
+            "specialtyGroup": "MPD",
+            "specialtyAlert": "nejmPediatrics"
+        },
+        {
+            "value": "FPP",
+            "label": "Psychiatry/Family Medicine",
+            "specialtyGroup": "P",
+            "specialtyAlert": "nejmPsychiatry"
+        },
+        {
+            "value": "IEC",
+            "label": "Internal/Emergency/Critical Care",
+            "specialtyGroup": "IM",
+            "specialtyAlert": "nejmEmergencyMedicine"
+        },
+        {
+            "value": "IFP",
+            "label": "IM Family Practice",
+            "specialtyGroup": "IM",
+            "specialtyAlert": "nejmPrimaryCareHospitalist"
+        },
+        {
+            "value": "IPM",
+            "label": "Internal Med Preventive Medicine",
+            "specialtyGroup": "IM",
+            "specialtyAlert": "nejmPrimaryCareHospitalist"
+        },
+        {
+            "value": "MEM",
+            "label": "Internal Med Emergency Medicine",
+            "specialtyGroup": "IM",
+            "specialtyAlert": "nejmEmergencyMedicine"
+        },
+        {
+            "value": "MPM",
+            "label": "IM Physical Medicine Rehabilitation",
+            "specialtyGroup": "IM",
+            "specialtyAlert": "nejmCardiology"
+        },
+        {
+            "value": "NRN",
+            "label": "Neurology/Diagnostic Rad/Neuro Rad",
+            "specialtyGroup": "N",
+            "specialtyAlert": "nejmNeurologyNeurosurgery"
+        },
+        {
+            "value": "PDM",
+            "label": "Pediatrics/Dermatology",
+            "specialtyGroup": "MPD",
+            "specialtyAlert": "nejmPediatrics"
+        },
+        {
+            "value": "PMG",
+            "label": "Pediatrics/Medical Genetics",
+            "specialtyGroup": "MPD",
+            "specialtyAlert": "nejmPediatrics"
+        },
+        {
+            "value": "PPM",
+            "label": "Pediatrics/Physical Medicine & Rehabilitation",
+            "specialtyGroup": "MPD",
+            "specialtyAlert": "nejmPediatrics"
+        },
+        {
+            "value": "PYN",
+            "label": "Psychiatry/Neurology",
+            "specialtyGroup": "P",
+            "specialtyAlert": "nejmPsychiatry"
+        },
+        {
+            "value": "D",
+            "label": "Dermatology",
+            "specialtyGroup": "D",
+            "specialtyAlert": "nejmDermatology"
+        },
+        {
+            "value": "DDL",
+            "label": "Clinical & Lab Dermatological Immunology",
+            "specialtyGroup": "D",
+            "specialtyAlert": "nejmDermatology"
+        },
+        {
+            "value": "DMP",
+            "label": "Dermatopathology",
+            "specialtyGroup": "CLP",
+            "specialtyAlert": "nejmHematologyOncology"
+        },
+        {
+            "value": "PDD",
+            "label": "Pediatric Dermatology",
+            "specialtyGroup": "MPD",
+            "specialtyAlert": "nejmPediatrics"
+        },
+        {
+            "value": "PRD",
+            "label": "Procedural Dermatology",
+            "specialtyGroup": "D",
+            "specialtyAlert": "nejmDermatology"
+        },
+        {
+            "value": "EM",
+            "label": "Emergency Medicine",
+            "specialtyGroup": "EM",
+            "specialtyAlert": "nejmEmergencyMedicine"
+        },
+        {
+            "value": "ESM",
+            "label": "Emergency Sports Medicine",
+            "specialtyGroup": "PM",
+            "specialtyAlert": "nejmRheumatology"
+        },
+        {
+            "value": "ETX",
+            "label": "Medical Toxicology (Emergency Medicine)",
+            "specialtyGroup": "EM",
+            "specialtyAlert": "nejmEmergencyMedicine"
+        },
+        {
+            "value": "HPE",
+            "label": "Hospice & Palliative Medicine (Emergency Medicine)",
+            "specialtyGroup": "PLM",
+            "specialtyAlert": "nejmHematologyOncology"
+        },
+        {
+            "value": "PE",
+            "label": "Pediatric Emergency Medicine (Emergency Medicine)",
+            "specialtyGroup": "MPD",
+            "specialtyAlert": "nejmPediatrics"
+        },
+        {
+            "value": "UCM",
+            "label": "Urgent Care Medicine",
+            "specialtyGroup": "EM",
+            "specialtyAlert": "nejmEmergencyMedicine"
+        },
+        {
+            "value": "UME",
+            "label": "Undersea & Hyperbaric Medicine (Emergency Medicine)",
+            "specialtyGroup": "EM",
+            "specialtyAlert": "nejmEmergencyMedicine"
+        },
+        {
+            "value": "DIA",
+            "label": "Diabetes",
+            "specialtyGroup": "END",
+            "specialtyAlert": "nejmEndocrinology"
+        },
+        {
+            "value": "END",
+            "label": "Endocrinology, Diabetes, Metabolism",
+            "specialtyGroup": "END",
+            "specialtyAlert": "nejmEndocrinology"
+        },
+        {
+            "value": "AMF",
+            "label": "Adolescent Medicine (Family Medicine/General Practice)",
+            "specialtyGroup": "PD",
+            "specialtyAlert": "nejmPediatrics"
+        },
+        {
+            "value": "FM",
+            "label": "Family Medicine",
+            "specialtyGroup": "GP",
+            "specialtyAlert": "nejmPrimaryCareHospitalist"
+        },
+        {
+            "value": "FSM",
+            "label": "Sports Medicine (Family Medicine/General Practice)",
+            "specialtyGroup": "PM",
+            "specialtyAlert": "nejmRheumatology"
+        },
+        {
+            "value": "GP",
+            "label": "General Practice",
+            "specialtyGroup": "GP",
+            "specialtyAlert": "nejmPrimaryCareHospitalist"
+        },
+        {
+            "value": "HPF",
+            "label": "Hospice & Palliative Medicine (Family Medicine/General Practice)",
+            "specialtyGroup": "PLM",
+            "specialtyAlert": "nejmHematologyOncology"
+        },
+        {
+            "value": "FPG",
+            "label": "Geriatric Medicine, Family Practice",
+            "specialtyGroup": "FPG",
+            "specialtyAlert": "nejmGeriatricsAging"
+        },
+        {
+            "value": "IMG",
+            "label": "Geriatric Medicine, Internal Medicine",
+            "specialtyGroup": "FPG",
+            "specialtyAlert": "nejmGeriatricsAging"
+        },
+        {
+            "value": "PYG",
+            "label": "Geriatric Psychiatry",
+            "specialtyGroup": "P",
+            "specialtyAlert": "nejmPsychiatry"
+        },
+        {
+            "value": "AMI",
+            "label": "Adolescent Medicine (Internal Medicine)",
+            "specialtyGroup": "PD",
+            "specialtyAlert": "nejmPediatrics"
+        },
+        {
+            "value": "CCM",
+            "label": "Critical Care Medicine (Internal Medicine)",
+            "specialtyGroup": "CCM",
+            "specialtyAlert": "nejmPulmonaryCriticalCare"
+        },
+        {
+            "value": "GE",
+            "label": "Gastroenterology",
+            "specialtyGroup": "GE",
+            "specialtyAlert": "nejmGastroenterology"
+        },
+        {
+            "value": "HEM",
+            "label": "Hematology (Internal Medicine)",
+            "specialtyGroup": "HEM",
+            "specialtyAlert": "nejmHematologyOncology"
+        },
+        {
+            "value": "HEP",
+            "label": "Hepatology",
+            "specialtyGroup": "GE",
+            "specialtyAlert": "nejmGastroenterology"
+        },
+        {
+            "value": "HPI",
+            "label": "Hospice & Palliative Medicine (Internal Medicine)",
+            "specialtyGroup": "PLM",
+            "specialtyAlert": "nejmHematologyOncology"
+        },
+        {
+            "value": "ID",
+            "label": "Infectious Disease",
+            "specialtyGroup": "ID",
+            "specialtyAlert": "nejmInfectiousDisease"
+        },
+        {
+            "value": "ILI",
+            "label": "Clinical & Laboratory Immunology (Internal Medicine)",
+            "specialtyGroup": "AI",
+            "specialtyAlert": "nejmAllergyImmunology"
+        },
+        {
+            "value": "IM",
+            "label": "Internal Medicine",
+            "specialtyGroup": "IM",
+            "specialtyAlert": "nejmPrimaryCareHospitalist"
+        },
+        {
+            "value": "ISM",
+            "label": "Sports Medicine (Internal Medicine)",
+            "specialtyGroup": "PM",
+            "specialtyAlert": "nejmRheumatology"
+        },
+        {
+            "value": "NEP",
+            "label": "Nephrology",
+            "specialtyGroup": "NEP",
+            "specialtyAlert": "nejmNephrology"
+        },
+        {
+            "value": "NTR",
+            "label": "Nutrition",
+            "specialtyGroup": "GE",
+            "specialtyAlert": "nejmGastroenterology"
+        },
+        {
+            "value": "PCC",
+            "label": "Pulmonary Critical Care Medicine",
+            "specialtyGroup": "PUD",
+            "specialtyAlert": "nejmPulmonaryCriticalCare"
+        },
+        {
+            "value": "PUD",
+            "label": "Pulmonary Disease",
+            "specialtyGroup": "PUD",
+            "specialtyAlert": "nejmPulmonaryCriticalCare"
+        },
+        {
+            "value": "RHU",
+            "label": "Rheumatology",
+            "specialtyGroup": "RHU",
+            "specialtyAlert": "nejmRheumatology"
+        },
+        {
+            "value": "SMI",
+            "label": "Sleep Medicine (Internal Medicine)",
+            "specialtyGroup": "N",
+            "specialtyAlert": "nejmNeurologyNeurosurgery"
+        },
+        {
+            "value": "THP",
+            "label": "Transplant Hepatology",
+            "specialtyGroup": "GE",
+            "specialtyAlert": "nejmGastroenterology"
+        },
+        {
+            "value": "VM",
+            "label": "Vascular Medicine",
+            "specialtyGroup": "CD",
+            "specialtyAlert": "nejmCardiology"
+        },
+        {
+            "value": "CBG",
+            "label": "Clinical Biochemical Genetics",
+            "specialtyGroup": "CG",
+            "specialtyAlert": "nejmGenetics"
+        },
+        {
+            "value": "CCG",
+            "label": "Clinical Cytogenetics",
+            "specialtyGroup": "CG",
+            "specialtyAlert": "nejmGenetics"
+        },
+        {
+            "value": "CG",
+            "label": "Clinical Genetics",
+            "specialtyGroup": "CG",
+            "specialtyAlert": "nejmGenetics"
+        },
+        {
+            "value": "CMG",
+            "label": "Clinical Molecular Genetics",
+            "specialtyGroup": "CG",
+            "specialtyAlert": "nejmGenetics"
+        },
+        {
+            "value": "MG",
+            "label": "Medical Genetics",
+            "specialtyGroup": "CG",
+            "specialtyAlert": "nejmGenetics"
+        },
+        {
+            "value": "MGG",
+            "label": "Molecular Genetic Pathology (Medical Genetics)",
+            "specialtyGroup": "CG",
+            "specialtyAlert": "nejmGenetics"
+        },
+        {
+            "value": "ES",
+            "label": "Endovascular Surgical Neuroradiology (Neurological Surgery)",
+            "specialtyGroup": "R",
+            "specialtyAlert": "nejmHematologyOncology"
+        },
+        {
+            "value": "NS",
+            "label": "Neurological Surgery",
+            "specialtyGroup": "TS",
+            "specialtyAlert": "nejmSurgery"
+        },
+        {
+            "value": "NSP",
+            "label": "Pediatric Surgery (Neurological Surgery)",
+            "specialtyGroup": "MPD",
+            "specialtyAlert": "nejmPediatrics"
+        },
+        {
+            "value": "CHN",
+            "label": "Child Neurology",
+            "specialtyGroup": "N",
+            "specialtyAlert": "nejmNeurologyNeurosurgery"
+        },
+        {
+            "value": "CN",
+            "label": "Clinical Neurophysiology",
+            "specialtyGroup": "N",
+            "specialtyAlert": "nejmNeurologyNeurosurgery"
+        },
+        {
+            "value": "HPN",
+            "label": "Hospice & Palliative Medicine (Neurology)",
+            "specialtyGroup": "PLM",
+            "specialtyAlert": "nejmHematologyOncology"
+        },
+        {
+            "value": "N",
+            "label": "Neurology",
+            "specialtyGroup": "N",
+            "specialtyAlert": "nejmNeurologyNeurosurgery"
+        },
+        {
+            "value": "NDN",
+            "label": "Neurodevelopmental Disabilities (Neurology)",
+            "specialtyGroup": "N",
+            "specialtyAlert": "nejmNeurologyNeurosurgery"
+        },
+        {
+            "value": "NMN",
+            "label": "Neuromuscular Medicine (Neurology)",
+            "specialtyGroup": "N",
+            "specialtyAlert": "nejmNeurologyNeurosurgery"
+        },
+        {
+            "value": "SMN",
+            "label": "Sleep Medicine (Neurology)",
+            "specialtyGroup": "N",
+            "specialtyAlert": "nejmNeurologyNeurosurgery"
+        },
+        {
+            "value": "VN",
+            "label": "Vascular Neurology",
+            "specialtyGroup": "N",
+            "specialtyAlert": "nejmNeurologyNeurosurgery"
+        },
+        {
+            "value": "GYN",
+            "label": "Gynecology",
+            "specialtyGroup": "OBG",
+            "specialtyAlert": "nejmObstetricsGynecology"
+        },
+        {
+            "value": "HPO",
+            "label": "Hospice & Palliative Medicine (Obstetrics & Gynecology)",
+            "specialtyGroup": "PLM",
+            "specialtyAlert": "nejmHematologyOncology"
+        },
+        {
+            "value": "MFM",
+            "label": "Maternal & Fetal Medicine",
+            "specialtyGroup": "OBG",
+            "specialtyAlert": "nejmObstetricsGynecology"
+        },
+        {
+            "value": "OBG",
+            "label": "Obstetrics & Gynecology",
+            "specialtyGroup": "OBG",
+            "specialtyAlert": "nejmObstetricsGynecology"
+        },
+        {
+            "value": "OBS",
+            "label": "Obstetrics",
+            "specialtyGroup": "OBG",
+            "specialtyAlert": "nejmObstetricsGynecology"
+        },
+        {
+            "value": "OCC",
+            "label": "Critical Care Medicine (Obstetrics & Gynecology)",
+            "specialtyGroup": "CCM",
+            "specialtyAlert": "nejmPulmonaryCriticalCare"
+        },
+        {
+            "value": "REN",
+            "label": "Reproductive Endocrinology & Infertility",
+            "specialtyGroup": "OBG",
+            "specialtyAlert": "nejmObstetricsGynecology"
+        },
+        {
+            "value": "GO",
+            "label": "Gynecological Oncology",
+            "specialtyGroup": "ON",
+            "specialtyAlert": "nejmHematologyOncology"
+        },
+        {
+            "value": "HO",
+            "label": "Hematology/Oncology",
+            "specialtyGroup": "ON",
+            "specialtyAlert": "nejmHematologyOncology"
+        },
+        {
+            "value": "OMO",
+            "label": "Musculoskeletal Oncology",
+            "specialtyGroup": "ON",
+            "specialtyAlert": "nejmHematologyOncology"
+        },
+        {
+            "value": "ON",
+            "label": "Medical Oncology",
+            "specialtyGroup": "ON",
+            "specialtyAlert": "nejmHematologyOncology"
+        },
+        {
+            "value": "PHO",
+            "label": "Pediatric Hematology/Oncology",
+            "specialtyGroup": "MPD",
+            "specialtyAlert": "nejmPediatrics"
+        },
+        {
+            "value": "SO",
+            "label": "Surgical Oncology",
+            "specialtyGroup": "TS",
+            "specialtyAlert": "nejmSurgery"
+        },
+        {
+            "value": "OPH",
+            "label": "Ophthalmology",
+            "specialtyGroup": "OPH",
+            "specialtyAlert": "nejmNeurologyNeurosurgery"
+        },
+        {
+            "value": "PO",
+            "label": "Pediatric Ophthalmology",
+            "specialtyGroup": "MPD",
+            "specialtyAlert": "nejmPediatrics"
+        },
+        {
+            "value": "HSO",
+            "label": "Hand Surgery Orthopedics",
+            "specialtyGroup": "TS",
+            "specialtyAlert": "nejmSurgery"
+        },
+        {
+            "value": "OAR",
+            "label": "Adult Reconstructive Orthopedics",
+            "specialtyGroup": "PM",
+            "specialtyAlert": "nejmRheumatology"
+        },
+        {
+            "value": "OFA",
+            "label": "Foot & Ankle, Orthopedics",
+            "specialtyGroup": "PM",
+            "specialtyAlert": "nejmRheumatology"
+        },
+        {
+            "value": "OP",
+            "label": "Pediatric Orthopedics",
+            "specialtyGroup": "MPD",
+            "specialtyAlert": "nejmPediatrics"
+        },
+        {
+            "value": "ORS",
+            "label": "Orthopedic Surgery",
+            "specialtyGroup": "TS",
+            "specialtyAlert": "nejmSurgery"
+        },
+        {
+            "value": "OSM",
+            "label": "Sports Medicine (Orthopedics)",
+            "specialtyGroup": "TS",
+            "specialtyAlert": "nejmSurgery"
+        },
+        {
+            "value": "OSS",
+            "label": "Orthopedic Surgery of the Spine",
+            "specialtyGroup": "TS",
+            "specialtyAlert": "nejmSurgery"
+        },
+        {
+            "value": "OTR",
+            "label": "Orthopedic Trauma",
+            "specialtyGroup": "PM",
+            "specialtyAlert": "nejmRheumatology"
+        },
+        {
+            "value": "ADM",
+            "label": "Addiction Medicine",
+            "specialtyGroup": "P",
+            "specialtyAlert": "nejmPsychiatry"
+        },
+        {
+            "value": "APM",
+            "label": "Pain Medicine (Anesthesiology)",
+            "specialtyGroup": "AN",
+            "specialtyAlert": "nejmEmergencyMedicine"
+        },
+        {
+            "value": "EP",
+            "label": "Epidemiology",
+            "specialtyGroup": "EP",
+            "specialtyAlert": "nejmHealthPolicy"
+        },
+        {
+            "value": "HOS",
+            "label": "Hospitalist",
+            "specialtyGroup": "HOS",
+            "specialtyAlert": "nejmPrimaryCareHospitalist"
+        },
+        {
+            "value": "LM",
+            "label": "Legal Medicine",
+            "specialtyGroup": "LM",
+            "specialtyAlert": "nejmHealthPolicy"
+        },
+        {
+            "value": "MDM",
+            "label": "Medical Management",
+            "specialtyGroup": "LM",
+            "specialtyAlert": "nejmHealthPolicy"
+        },
+        {
+            "value": "NM",
+            "label": "Nuclear Medicine",
+            "specialtyGroup": "R",
+            "specialtyAlert": "nejmHematologyOncology"
+        },
+        {
+            "value": "OMM",
+            "label": "Osteopathic Manipulative Medicine",
+            "specialtyGroup": "PM",
+            "specialtyAlert": "nejmRheumatology"
+        },
+        {
+            "value": "OS",
+            "label": "Other Specialty",
+            "specialtyGroup": "OS",
+            "specialtyAlert": "nejmInfectiousDisease"
+        },
+        {
+            "value": "PA",
+            "label": "Clinical Pharmacology",
+            "specialtyGroup": "PA",
+            "specialtyAlert": "nejmCardiology"
+        },
+        {
+            "value": "PHL",
+            "label": "Phlebology",
+            "specialtyGroup": "HEM",
+            "specialtyAlert": "nejmHematologyOncology"
+        },
+        {
+            "value": "PHM",
+            "label": "Pharmaceutical Medicine",
+            "specialtyGroup": "PA",
+            "specialtyAlert": "nejmCardiology"
+        },
+        {
+            "value": "PLM",
+            "label": "Palliative Medicine",
+            "specialtyGroup": "PLM",
+            "specialtyAlert": "nejmHematologyOncology"
+        },
+        {
+            "value": "PMM",
+            "label": "Pain Medicine",
+            "specialtyGroup": "PLM",
+            "specialtyAlert": "nejmHematologyOncology"
+        },
+        {
+            "value": "PMN",
+            "label": "Pain Medicine Neurology",
+            "specialtyGroup": "N",
+            "specialtyAlert": "nejmNeurologyNeurosurgery"
+        },
+        {
+            "value": "PMP",
+            "label": "Pain Medicine Physical Medicine & Rehabilitation",
+            "specialtyGroup": "PLM",
+            "specialtyAlert": "nejmHematologyOncology"
+        },
+        {
+            "value": "SME",
+            "label": "Sleep Medicine",
+            "specialtyGroup": "N",
+            "specialtyAlert": "nejmNeurologyNeurosurgery"
+        },
+        {
+            "value": "US",
+            "label": "Unspecified",
+            "specialtyGroup": "US",
+            "specialtyAlert": "nejmCardiology"
+        },
+        {
+            "value": "NO",
+            "label": "Neurotology/Otolaryngology",
+            "specialtyGroup": "OTO",
+            "specialtyAlert": "nejmSurgery"
+        },
+        {
+            "value": "OTO",
+            "label": "Otolaryngology",
+            "specialtyGroup": "OTO",
+            "specialtyAlert": "nejmSurgery"
+        },
+        {
+            "value": "PDO",
+            "label": "Pediatric Otolaryngology",
+            "specialtyGroup": "MPD",
+            "specialtyAlert": "nejmPediatrics"
+        },
+        {
+            "value": "PSH",
+            "label": "Plastic Surgery within Head & Neck (Otolaryngology)",
+            "specialtyGroup": "D",
+            "specialtyAlert": "nejmDermatology"
+        },
+        {
+            "value": "SMO",
+            "label": "Sleep Medicine (Otolaryngology)",
+            "specialtyGroup": "N",
+            "specialtyAlert": "nejmNeurologyNeurosurgery"
+        },
+        {
+            "value": "ATP",
+            "label": "Anatomic Pathology",
+            "specialtyGroup": "CLP",
+            "specialtyAlert": "nejmHematologyOncology"
+        },
+        {
+            "value": "BBK",
+            "label": "Blood Banking/Transfusion Medicine",
+            "specialtyGroup": "HEM",
+            "specialtyAlert": "nejmHematologyOncology"
+        },
+        {
+            "value": "CLP",
+            "label": "Clinical Pathology",
+            "specialtyGroup": "CLP",
+            "specialtyAlert": "nejmHematologyOncology"
+        },
+        {
+            "value": "FOP",
+            "label": "Forensic Pathology",
+            "specialtyGroup": "CLP",
+            "specialtyAlert": "nejmHematologyOncology"
+        },
+        {
+            "value": "HMP",
+            "label": "Hematology (Pathology)",
+            "specialtyGroup": "HEM",
+            "specialtyAlert": "nejmHematologyOncology"
+        },
+        {
+            "value": "MGP",
+            "label": "Molecular Genetic Pathology (Pathology)",
+            "specialtyGroup": "CG",
+            "specialtyAlert": "nejmGenetics"
+        },
+        {
+            "value": "MM",
+            "label": "Medical Microbiology",
+            "specialtyGroup": "ID",
+            "specialtyAlert": "nejmInfectiousDisease"
+        },
+        {
+            "value": "NP",
+            "label": "Neuropathology",
+            "specialtyGroup": "CLP",
+            "specialtyAlert": "nejmHematologyOncology"
+        },
+        {
+            "value": "PCH",
+            "label": "Chemical Pathology",
+            "specialtyGroup": "CLP",
+            "specialtyAlert": "nejmHematologyOncology"
+        },
+        {
+            "value": "PCP",
+            "label": "Cytopathology",
+            "specialtyGroup": "CLP",
+            "specialtyAlert": "nejmHematologyOncology"
+        },
+        {
+            "value": "PP",
+            "label": "Pediatric Pathology",
+            "specialtyGroup": "MPD",
+            "specialtyAlert": "nejmPediatrics"
+        },
+        {
+            "value": "PTH",
+            "label": "Anatomic/Clinical Pathology",
+            "specialtyGroup": "CLP",
+            "specialtyAlert": "nejmHematologyOncology"
+        },
+        {
+            "value": "SP",
+            "label": "Selective Pathology",
+            "specialtyGroup": "CLP",
+            "specialtyAlert": "nejmHematologyOncology"
+        },
+        {
+            "value": "ADL",
+            "label": "Adolescent Medicine (Pediatrics)",
+            "specialtyGroup": "PD",
+            "specialtyAlert": "nejmPediatrics"
+        },
+        {
+            "value": "CAP",
+            "label": "Child Abuse Pediatrics",
+            "specialtyGroup": "MPD",
+            "specialtyAlert": "nejmPediatrics"
+        },
+        {
+            "value": "CCP",
+            "label": "Pediatric Critical Care Medicine",
+            "specialtyGroup": "MPD",
+            "specialtyAlert": "nejmPediatrics"
+        },
+        {
+            "value": "DBP",
+            "label": "Developmental-Behavioral Pediatrics",
+            "specialtyGroup": "PD",
+            "specialtyAlert": "nejmPediatrics"
+        },
+        {
+            "value": "NDP",
+            "label": "Neurodevelopmental Disabilities (Pediatrics)",
+            "specialtyGroup": "PD",
+            "specialtyAlert": "nejmPediatrics"
+        },
+        {
+            "value": "NPM",
+            "label": "Neonatal-Perinatal Medicine",
+            "specialtyGroup": "OBG",
+            "specialtyAlert": "nejmObstetricsGynecology"
+        },
+        {
+            "value": "PAN",
+            "label": "Pediatric Anesthesiology",
+            "specialtyGroup": "MPD",
+            "specialtyAlert": "nejmPediatrics"
+        },
+        {
+            "value": "PD",
+            "label": "Pediatrics",
+            "specialtyGroup": "PD",
+            "specialtyAlert": "nejmPediatrics"
+        },
+        {
+            "value": "PDA",
+            "label": "Pediatric Allergy",
+            "specialtyGroup": "MPD",
+            "specialtyAlert": "nejmPediatrics"
+        },
+        {
+            "value": "PDE",
+            "label": "Pediatric Endocrinology",
+            "specialtyGroup": "MPD",
+            "specialtyAlert": "nejmPediatrics"
+        },
+        {
+            "value": "PDI",
+            "label": "Pediatric Infectious Diseases",
+            "specialtyGroup": "MPD",
+            "specialtyAlert": "nejmPediatrics"
+        },
+        {
+            "value": "PDP",
+            "label": "Pediatric Pulmonology",
+            "specialtyGroup": "MPD",
+            "specialtyAlert": "nejmPediatrics"
+        },
+        {
+            "value": "PDT",
+            "label": "Medical Toxicology (Pediatrics)",
+            "specialtyGroup": "PD",
+            "specialtyAlert": "nejmPediatrics"
+        },
+        {
+            "value": "PEM",
+            "label": "Pediatric Emergency Medicine (Pediatrics)",
+            "specialtyGroup": "MPD",
+            "specialtyAlert": "nejmPediatrics"
+        },
+        {
+            "value": "PG",
+            "label": "Pediatric Gastroenterology",
+            "specialtyGroup": "MPD",
+            "specialtyAlert": "nejmPediatrics"
+        },
+        {
+            "value": "PLI",
+            "label": "Clinical & Laboratory Immunology (Pediatrics)",
+            "specialtyGroup": "PM",
+            "specialtyAlert": "nejmRheumatology"
+        },
+        {
+            "value": "PN",
+            "label": "Pediatric Nephrology",
+            "specialtyGroup": "MPD",
+            "specialtyAlert": "nejmPediatrics"
+        },
+        {
+            "value": "PPR",
+            "label": "Pediatric Rheumatology",
+            "specialtyGroup": "MPD",
+            "specialtyAlert": "nejmPediatrics"
+        },
+        {
+            "value": "PSM",
+            "label": "Sports Medicine Pediatrics",
+            "specialtyGroup": "PM",
+            "specialtyAlert": "nejmRheumatology"
+        },
+        {
+            "value": "PTP",
+            "label": "Pediatric Transplant Hepatology",
+            "specialtyGroup": "MPD",
+            "specialtyAlert": "nejmPediatrics"
+        },
+        {
+            "value": "SMP",
+            "label": "Sleep Medicine (Pediatrics)",
+            "specialtyGroup": "N",
+            "specialtyAlert": "nejmNeurologyNeurosurgery"
+        },
+        {
+            "value": "HPM",
+            "label": "Hospice & Palliative Medicine (Physical Medicine & Rehabilitation)",
+            "specialtyGroup": "PLM",
+            "specialtyAlert": "nejmHematologyOncology"
+        },
+        {
+            "value": "HPR",
+            "label": "Hospice & Palliative Medicine (Physical Medicine & Rehabilitation)",
+            "specialtyGroup": "PLM",
+            "specialtyAlert": "nejmHematologyOncology"
+        },
+        {
+            "value": "NMP",
+            "label": "Neuromuscular Medicine (Physical Medicine & Rehabilitation)",
+            "specialtyGroup": "N",
+            "specialtyAlert": "nejmNeurologyNeurosurgery"
+        },
+        {
+            "value": "PM",
+            "label": "Physical Medicine & Rehabilitation",
+            "specialtyGroup": "PM",
+            "specialtyAlert": "nejmRheumatology"
+        },
+        {
+            "value": "PRS",
+            "label": "Sports Medicine Physical Medicine & Rehabilitation",
+            "specialtyGroup": "PM",
+            "specialtyAlert": "nejmRheumatology"
+        },
+        {
+            "value": "RPM",
+            "label": "Pediatric Rehabilitation Medicine",
+            "specialtyGroup": "MPD",
+            "specialtyAlert": "nejmPediatrics"
+        },
+        {
+            "value": "SCI",
+            "label": "Spinal Cord Injury",
+            "specialtyGroup": "PM",
+            "specialtyAlert": "nejmRheumatology"
+        },
+        {
+            "value": "CFS",
+            "label": "Craniofacial Surgery",
+            "specialtyGroup": "TS",
+            "specialtyAlert": "nejmSurgery"
+        },
+        {
+            "value": "FPS",
+            "label": "Facial Plastic Surgery",
+            "specialtyGroup": "D",
+            "specialtyAlert": "nejmDermatology"
+        },
+        {
+            "value": "HSP",
+            "label": "Hand Surgery Plastic",
+            "specialtyGroup": "D",
+            "specialtyAlert": "nejmDermatology"
+        },
+        {
+            "value": "PS",
+            "label": "Plastic Surgery",
+            "specialtyGroup": "D",
+            "specialtyAlert": "nejmDermatology"
+        },
+        {
+            "value": "PSI",
+            "label": "Plastic Surgery - Integrated",
+            "specialtyGroup": "TS",
+            "specialtyAlert": "nejmSurgery"
+        },
+        {
+            "value": "PSP",
+            "label": "Plastic Surgery within Head & Neck (Plastic Surgery)",
+            "specialtyGroup": "D",
+            "specialtyAlert": "nejmDermatology"
+        },
+        {
+            "value": "AM",
+            "label": "Aerospace Medicine",
+            "specialtyGroup": "EM",
+            "specialtyAlert": "nejmEmergencyMedicine"
+        },
+        {
+            "value": "GPM",
+            "label": "General Preventive Medicine",
+            "specialtyGroup": "GP",
+            "specialtyAlert": "nejmPrimaryCareHospitalist"
+        },
+        {
+            "value": "OM",
+            "label": "Occupational Medicine",
+            "specialtyGroup": "IM",
+            "specialtyAlert": "nejmRheumatology"
+        },
+        {
+            "value": "PHP",
+            "label": "Public Health & Gen Preventive Med",
+            "specialtyGroup": "LM",
+            "specialtyAlert": "nejmHealthPolicy"
+        },
+        {
+            "value": "PTX",
+            "label": "Medical Toxicology (Preventive Medicine)",
+            "specialtyGroup": "PTX",
+            "specialtyAlert": "nejmCardiology"
+        },
+        {
+            "value": "UM",
+            "label": "Undersea & Hyperbaric Medicine (Preventive Medicine)",
+            "specialtyGroup": "EM",
+            "specialtyAlert": "nejmEmergencyMedicine"
+        },
+        {
+            "value": "ADP",
+            "label": "Addiction Psychiatry",
+            "specialtyGroup": "P",
+            "specialtyAlert": "nejmPsychiatry"
+        },
+        {
+            "value": "CHP",
+            "label": "Child & Adolescent Psychiatry",
+            "specialtyGroup": "P",
+            "specialtyAlert": "nejmPsychiatry"
+        },
+        {
+            "value": "NUP",
+            "label": "Neuropsychiatry",
+            "specialtyGroup": "P",
+            "specialtyAlert": "nejmPsychiatry"
+        },
+        {
+            "value": "P",
+            "label": "Psychiatry",
+            "specialtyGroup": "P",
+            "specialtyAlert": "nejmPsychiatry"
+        },
+        {
+            "value": "PFP",
+            "label": "Forensic Psychiatry",
+            "specialtyGroup": "P",
+            "specialtyAlert": "nejmPsychiatry"
+        },
+        {
+            "value": "PPN",
+            "label": "Pain Medicine Psychiatry",
+            "specialtyGroup": "PLM",
+            "specialtyAlert": "nejmHematologyOncology"
+        },
+        {
+            "value": "PYA",
+            "label": "Psychoanalysis",
+            "specialtyGroup": "P",
+            "specialtyAlert": "nejmPsychiatry"
+        },
+        {
+            "value": "PYM",
+            "label": "Psychosomatic Medicine",
+            "specialtyGroup": "P",
+            "specialtyAlert": "nejmPsychiatry"
+        },
+        {
+            "value": "AR",
+            "label": "Abdominal Radiology",
+            "specialtyGroup": "R",
+            "specialtyAlert": "nejmHematologyOncology"
+        },
+        {
+            "value": "CTR",
+            "label": "Cardiothoracic Radiology",
+            "specialtyGroup": "R",
+            "specialtyAlert": "nejmHematologyOncology"
+        },
+        {
+            "value": "DR",
+            "label": "Diagnostic Radiology",
+            "specialtyGroup": "R",
+            "specialtyAlert": "nejmHematologyOncology"
+        },
+        {
+            "value": "HPD",
+            "label": "Hospice & Palliative Medicine (Radiology)",
+            "specialtyGroup": "PLM",
+            "specialtyAlert": "nejmHematologyOncology"
+        },
+        {
+            "value": "MSR",
+            "label": "Musculoskeletal Radiology",
+            "specialtyGroup": "R",
+            "specialtyAlert": "nejmHematologyOncology"
+        },
+        {
+            "value": "NR",
+            "label": "Nuclear Radiology",
+            "specialtyGroup": "R",
+            "specialtyAlert": "nejmHematologyOncology"
+        },
+        {
+            "value": "PDR",
+            "label": "Pediatric Radiology",
+            "specialtyGroup": "MPD",
+            "specialtyAlert": "nejmPediatrics"
+        },
+        {
+            "value": "R",
+            "label": "Radiology",
+            "specialtyGroup": "R",
+            "specialtyAlert": "nejmHematologyOncology"
+        },
+        {
+            "value": "RNR",
+            "label": "Neuroradiology",
+            "specialtyGroup": "R",
+            "specialtyAlert": "nejmHematologyOncology"
+        },
+        {
+            "value": "RO",
+            "label": "Radiation Oncology",
+            "specialtyGroup": "R",
+            "specialtyAlert": "nejmHematologyOncology"
+        },
+        {
+            "value": "RP",
+            "label": "Radiological Physics",
+            "specialtyGroup": "R",
+            "specialtyAlert": "nejmHematologyOncology"
+        },
+        {
+            "value": "VIR",
+            "label": "Vascular & Interventional Radiology",
+            "specialtyGroup": "R",
+            "specialtyAlert": "nejmHematologyOncology"
+        },
+        {
+            "value": "AS",
+            "label": "Abdominal Surgery",
+            "specialtyGroup": "TS",
+            "specialtyAlert": "nejmSurgery"
+        },
+        {
+            "value": "CCS",
+            "label": "Surgical Critical Care",
+            "specialtyGroup": "TS",
+            "specialtyAlert": "nejmSurgery"
+        },
+        {
+            "value": "CHS",
+            "label": "Congenital Cardiac Surgery",
+            "specialtyGroup": "TS",
+            "specialtyAlert": "nejmSurgery"
+        },
+        {
+            "value": "CRS",
+            "label": "Colon & Rectal Surgery",
+            "specialtyGroup": "TS",
+            "specialtyAlert": "nejmSurgery"
+        },
+        {
+            "value": "CS",
+            "label": "Cosmetic Surgery",
+            "specialtyGroup": "D",
+            "specialtyAlert": "nejmDermatology"
+        },
+        {
+            "value": "DS",
+            "label": "Dermatologic Surgery",
+            "specialtyGroup": "D",
+            "specialtyAlert": "nejmDermatology"
+        },
+        {
+            "value": "GS",
+            "label": "General Surgery",
+            "specialtyGroup": "GS",
+            "specialtyAlert": "nejmSurgery"
+        },
+        {
+            "value": "HNS",
+            "label": "Head & Neck Surgery",
+            "specialtyGroup": "TS",
+            "specialtyAlert": "nejmSurgery"
+        },
+        {
+            "value": "HS",
+            "label": "Hand Surgery",
+            "specialtyGroup": "TS",
+            "specialtyAlert": "nejmSurgery"
+        },
+        {
+            "value": "HSS",
+            "label": "Hand Surgery General",
+            "specialtyGroup": "TS",
+            "specialtyAlert": "nejmSurgery"
+        },
+        {
+            "value": "OMF",
+            "label": "Oral & Maxillofacial Surgery",
+            "specialtyGroup": "OMF",
+            "specialtyAlert": "nejmInfectiousDisease"
+        },
+        {
+            "value": "PCS",
+            "label": "Pediatric Cardiothoracic Surgery",
+            "specialtyGroup": "TS",
+            "specialtyAlert": "nejmPediatrics"
+        },
+        {
+            "value": "PDS",
+            "label": "Pediatric Surgery (Surgery)",
+            "specialtyGroup": "TS",
+            "specialtyAlert": "nejmSurgery"
+        },
+        {
+            "value": "PRO",
+            "label": "Proctology",
+            "specialtyGroup": "GE",
+            "specialtyAlert": "nejmGastroenterology"
+        },
+        {
+            "value": "TRS",
+            "label": "Trauma Surgery",
+            "specialtyGroup": "TS",
+            "specialtyAlert": "nejmSurgery"
+        },
+        {
+            "value": "TS",
+            "label": "Thoracic Surgery",
+            "specialtyGroup": "TS",
+            "specialtyAlert": "nejmSurgery"
+        },
+        {
+            "value": "TSI",
+            "label": "Thoracic Surgery - Integrated",
+            "specialtyGroup": "TS",
+            "specialtyAlert": "nejmSurgery"
+        },
+        {
+            "value": "TTS",
+            "label": "Transplant Surgery",
+            "specialtyGroup": "TS",
+            "specialtyAlert": "nejmSurgery"
+        },
+        {
+            "value": "VS",
+            "label": "Vascular Surgery",
+            "specialtyGroup": "TS",
+            "specialtyAlert": "nejmSurgery"
+        },
+        {
+            "value": "VSI",
+            "label": "Vascular Surgery - Integrated",
+            "specialtyGroup": "TS",
+            "specialtyAlert": "nejmSurgery"
+        },
+        {
+            "value": "U",
+            "label": "Urology",
+            "specialtyGroup": "U",
+            "specialtyAlert": "nejmSurgery"
+        },
+        {
+            "value": "UP",
+            "label": "Pediatric Urology",
+            "specialtyGroup": "TS",
+            "specialtyAlert": "nejmPediatrics"
+        },
+        {
+            "value": "ACC",
+            "label": "Anesthesiology Critical Care Medicine",
+            "specialtyGroup": "AI",
+            "specialtyAlert": "nejmEmergencyMedicine"
+        },
+        {
+            "value": "AHF",
+            "label": "Advanced Heart Failure & Transplant Cardiology",
+            "specialtyGroup": "CD",
+            "specialtyAlert": "nejmCardiology"
+        },
+        {
+            "value": "ALI",
+            "label": "Clinical Laboratory Immunology",
+            "specialtyGroup": "AI"
+        },
+        {
+            "value": "ASO",
+            "label": "Advanced Surgical Oncology",
+            "specialtyGroup": "TS",
+            "specialtyAlert": "nejmSurgery"
+        },
+        {
+            "value": "BIN",
+            "label": "Brain Injury Medicine (Neurology)",
+            "specialtyGroup": "N",
+            "specialtyAlert": "nejmNeurologyNeurosurgery"
+        },
+        {
+            "value": "BIP",
+            "label": "Brain Injury Medicine (Physical Medicine & Rehabilitation)",
+            "specialtyGroup": "N",
+            "specialtyAlert": "nejmNeurologyNeurosurgery"
+        },
+        {
+            "value": "CCE",
+            "label": "Critical Care Medicine (Emergency Medicine)",
+            "specialtyGroup": "EM",
+            "specialtyAlert": "nejmEmergencyMedicine"
+        },
+        {
+            "value": "CHD",
+            "label": "Adult Congenital Heart Disease",
+            "specialtyGroup": "CD",
+            "specialtyAlert": "nejmCardiology"
+        },
+        {
+            "value": "CID",
+            "label": "Clinical Informatics (Pediatrics)",
+            "specialtyGroup": "MPD"
+        },
+        {
+            "value": "CIE",
+            "label": "Clinical Informatics (Emergency Medicine)",
+            "specialtyGroup": "EM",
+            "specialtyAlert": "nejmEmergencyMedicine"
+        },
+        {
+            "value": "CIF",
+            "label": "Clinical Informatics (Family Medicine/General Practice)",
+            "specialtyGroup": "GP",
+            "specialtyAlert": "nejmPrimaryCareHospitalist"
+        },
+        {
+            "value": "CIM",
+            "label": "Clinical Informatics (Preventive Medicine)",
+            "specialtyGroup": "GP",
+            "specialtyAlert": "nejmPrimaryCareHospitalist"
+        },
+        {
+            "value": "CIP",
+            "label": "Clinical Informatics (Pathology)",
+            "specialtyGroup": "CLP",
+            "specialtyAlert": "nejmHematologyOncology"
+        },
+        {
+            "value": "CLI",
+            "label": "Clinical Informatics (Internal Medicine)",
+            "specialtyGroup": "IM",
+            "specialtyAlert": "nejmPrimaryCareHospitalist"
+        },
+        {
+            "value": "EMS",
+            "label": "Emergency Medical Services",
+            "specialtyGroup": "EM",
+            "specialtyAlert": "nejmEmergencyMedicine"
+        },
+        {
+            "value": "ENR",
+            "label": "Endovascular Surgical Neuroradiology (Neurology)",
+            "specialtyGroup": "N",
+            "specialtyAlert": "nejmNeurologyNeurosurgery"
+        },
+        {
+            "value": "EPL",
+            "label": "Epilepsy",
+            "specialtyGroup": "N",
+            "specialtyAlert": "nejmNeurologyNeurosurgery"
+        },
+        {
+            "value": "ESN",
+            "label": "Endovascular Surgical Neuroradiology (Radiology)",
+            "specialtyGroup": "TS",
+            "specialtyAlert": "nejmSurgery"
+        },
+        {
+            "value": "FMP",
+            "label": "Family Medicine/Preventive Medicine",
+            "specialtyGroup": "GP",
+            "specialtyAlert": "nejmPrimaryCareHospitalist"
+        },
+        {
+            "value": "FP",
+            "label": "Family Practice",
+            "specialtyGroup": "GP",
+            "specialtyAlert": "nejmPrimaryCareHospitalist"
+        },
+        {
+            "value": "FPR",
+            "label": "Female Pelvic Med & Reconstruct Surg",
+            "specialtyGroup": "OBG",
+            "specialtyAlert": "nejmObstetricsGynecology"
+        },
+        {
+            "value": "HPA",
+            "label": "Hospice & Palliative Medicine (Anesthesiology)",
+            "specialtyGroup": "PLM",
+            "specialtyAlert": "nejmHematologyOncology"
+        },
+        {
+            "value": "HPP",
+            "label": "Hospice & Palliative Medicine (Pediatrics)",
+            "specialtyGroup": "PLM",
+            "specialtyAlert": "nejmHematologyOncology"
+        },
+        {
+            "value": "IAN",
+            "label": "Clinical Informatics (Anesthesiology)",
+            "specialtyGroup": "AN",
+            "specialtyAlert": "nejmEmergencyMedicine"
+        },
+        {
+            "value": "IMA",
+            "label": "Internal Medicine/Anesthesiology",
+            "specialtyGroup": "AN",
+            "specialtyAlert": "nejmEmergencyMedicine"
+        },
+        {
+            "value": "IMD",
+            "label": "Internal Medicine/Dermatology",
+            "specialtyGroup": "IM",
+            "specialtyAlert": "nejmDermatology"
+        },
+        {
+            "value": "IRI",
+            "label": "Interventional Radiology - Integrated",
+            "specialtyGroup": "R",
+            "specialtyAlert": "nejmHematologyOncology"
+        },
+        {
+            "value": "MBG",
+            "label": "Medical Biochemical Genetics",
+            "specialtyGroup": "CG",
+            "specialtyAlert": "nejmGenetics"
+        },
+        {
+            "value": "MDG",
+            "label": "Internal Medicine/Medical Genetics",
+            "specialtyGroup": "IM",
+            "specialtyAlert": "nejmCardiology"
+        },
+        {
+            "value": "MN",
+            "label": "Internal Medicine Neurology",
+            "specialtyGroup": "IM",
+            "specialtyAlert": "nejmNeurologyNeurosurgery"
+        },
+        {
+            "value": "MP",
+            "label": "Internal Medicine Psychiatry",
+            "specialtyGroup": "IM",
+            "specialtyAlert": "nejmPsychiatry"
+        },
+        {
+            "value": "MPD",
+            "label": "Internal Medicine Pediatrics",
+            "specialtyGroup": "MPD",
+            "specialtyAlert": "nejmPediatrics"
+        },
+        {
+            "value": "OAN",
+            "label": "Obstetric Anesthesiology",
+            "specialtyGroup": "AN",
+            "specialtyAlert": "nejmEmergencyMedicine"
+        },
+        {
+            "value": "OPR",
+            "label": "Ophthalmological Plastic & Reconstructive Surg",
+            "specialtyGroup": "OPH",
+            "specialtyAlert": "nejmSurgery"
+        },
+        {
+            "value": "PDN",
+            "label": "Pediatrics/Anesthesiology",
+            "specialtyGroup": "MPD",
+            "specialtyAlert": "nejmPediatrics"
+        },
+        {
+            "value": "PME",
+            "label": "Pain Management",
+            "specialtyGroup": "PLM",
+            "specialtyAlert": "nejmHematologyOncology"
+        },
+        {
+            "value": "PSO",
+            "label": "Plastic Surgery within Head & Neck (Otolaryngology)",
+            "specialtyGroup": "D",
+            "specialtyAlert": "nejmDermatology"
+        },
+        {
+            "value": "RAA",
+            "label": "Regional Anesthesiology & Acute Pain Med",
+            "specialtyGroup": "AN",
+            "specialtyAlert": "nejmEmergencyMedicine"
+        },
+        {
+            "value": "SMA",
+            "label": "Sleep Medicine (Anesthesiology)",
+            "specialtyGroup": "N",
+            "specialtyAlert": "nejmNeurologyNeurosurgery"
+        },
+        {
+            "value": "TY",
+            "label": "Transitional Year",
+            "specialtyGroup": "OS",
+            "specialtyAlert": "nejmPrimaryCareHospitalist"
+        },
+        {
+            "value": "UPR",
+            "label": "Female Pelvic Medicine & Reconstructive Surg",
+            "specialtyGroup": "U",
+            "specialtyAlert": "nejmSurgery"
+        }
+    ]
+}

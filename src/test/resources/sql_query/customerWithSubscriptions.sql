@@ -1,0 +1,1 @@
+select TOP 20 CTM_NBR from CIRSUB_M order by ACT_DTE desc

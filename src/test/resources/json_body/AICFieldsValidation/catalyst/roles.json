@@ -1,0 +1,83 @@
+{
+    "items": [{
+            "value": "CEO",
+            "label": "CEO/President/Board Member"
+        },
+        {
+            "value": "CSU",
+            "label": "C-Suite"
+        },
+        {
+            "value": "VP",
+            "label": "VP/Director"
+        },
+        {
+            "value": "MGR",
+            "label": "Manager"
+        },
+        {
+            "value": "CON",
+            "label": "Consultant"
+        },
+        {
+            "value": "BEO",
+            "label": "Business Executive – Other"
+        },
+        {
+            "value": "CMO",
+            "label": "Chief Medical Officer"
+        },
+        {
+            "value": "VMA",
+            "label": "VP of Medical Affairs"
+        },
+        {
+            "value": "CCS",
+            "label": "Chief or Chair Service/Department (i.e., Orthopedics, Cardiology, etc.)"
+        },
+        {
+            "value": "AC",
+            "label": "Associate Chief or Vice of Chair Service/Department"
+        },
+        {
+            "value": "CSL",
+            "label": "Chief of Service Line (i.e., Patient safety, Quality assurance, etc.)"
+        },
+        {
+            "value": "VSL",
+            "label": "VP, Director, Manager of Service Line"
+        },
+        {
+            "value": "DMS",
+            "label": "Dean of Medical School"
+        },
+        {
+            "value": "PRF",
+            "label": "Program/Residency/Fellowship Director"
+        },
+        {
+            "value": "CLI",
+            "label": "Clinician"
+        },
+        {
+            "value": "RSD",
+            "label": "Resident"
+        },
+        {
+            "value": "STU",
+            "label": "Student"
+        },
+        {
+            "value": "EDU",
+            "label": "Educator"
+        },
+        {
+            "value": "RES",
+            "label": "Researcher"
+        },
+        {
+            "value": "OTH",
+            "label": "Other"
+        }
+    ]
+}

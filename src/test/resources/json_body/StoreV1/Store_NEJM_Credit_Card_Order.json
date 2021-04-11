@@ -1,0 +1,57 @@
+{
+  "payment": {
+    "paymentAmount": 189,
+    "paymentType": "md_firstdata",
+    "creditCardInfo": {
+      "cardType": "VI",
+      "cardToken": "4111111111111111",
+      "customerName": "Jinx Deshmukh",
+      "expirationMonth": 11,
+      "expirationYear": 2028,
+      "lastFour": "1111",
+      "securityCode": "123",
+      "authorization": {
+        "authDate": "2021-01-26T16:52:18.408943519Z",
+        "authCode": "12345",
+        "authNumber": "12345"
+      }
+    }
+  },
+  "customer": {
+    "firstName": "2021.01.26.21.52.11firstName",
+    "lastName": "2021.01.26.21.52.11lastName",
+    "email": "2021.01.26.21.52.11automation@nejmemail.com",
+    "catalystRenewalCode": ""
+  },
+  "order": {
+    "orderEntityId": "000004917",
+    "createdAt": "2021-01-26T16:52:18.411100788Z",
+    "totalDue": 189,
+    "storeId": 1,
+    "storeCurrencyCode": "USD",
+    "vatNumber": "",
+    "isComp": false,
+    "compCode": "XYZ",
+    "isRenewal": false,
+    "orderLines": [
+      {
+        "orderLineNumber": 1,
+        "brand": "NEJM",
+        "sku": "NEJ-NEJ",
+        "term": "56 issues",
+        "autoRenew": true,
+        "price": 189,
+        "tax": 0,
+        "quantity": 1,
+        "promoCode": "none"
+      }
+    ],
+    "billToAddress": {
+      "address": "100 Norway St",
+      "city": "Boston",
+      "state": "MA",
+      "country": "US",
+      "postalCode": "02115"
+    }
+  }
+}

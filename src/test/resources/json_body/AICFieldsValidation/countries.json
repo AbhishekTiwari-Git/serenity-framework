@@ -1,0 +1,1450 @@
+{
+	"items": [
+        {
+            "value": "USA",
+            "label": "United States",
+			"isGDPR":"False",
+			"iso2": "US"
+        },
+        {
+            "value": "AFG",
+            "label": "Afghanistan",
+			"isGDPR":"False",
+			"iso2": "AF"
+        },
+        {
+            "value": "ALA",
+            "label": "Aland Island",
+			"isGDPR":"False",
+			"iso2": "AX"
+        },
+        {
+            "value": "ALB",
+            "label": "Albania",
+			"isGDPR":"True",
+			"iso2": "AL"
+        },
+        {
+            "value": "DZA",
+            "label": "Algeria",
+			"isGDPR":"False",
+			"iso2": "DZ"
+        },
+        {
+            "value": "AND",
+            "label": "Andorra",
+			"isGDPR":"False",
+			"iso2": "AD"
+        },
+        {
+            "value": "AGO",
+            "label": "Angola",
+			"isGDPR":"False",
+			"iso2": "AO"
+        },
+        {
+            "value": "AIA",
+            "label": "Anguilla",
+			"isGDPR":"False",
+			"iso2": "AI"
+        },
+        {
+            "value": "ATA",
+            "label": "Antarctica",
+			"isGDPR":"False",
+			"iso2": "AQ"
+        },
+        {
+            "value": "ATG",
+            "label": "Antigua And Barbuda",
+			"isGDPR":"False",
+			"iso2": "AG"
+        },
+        {
+            "value": "ARG",
+            "label": "Argentina",
+			"isGDPR":"False",
+			"iso2": "AR"
+        },
+        {
+            "value": "ARM",
+            "label": "Armenia",
+			"isGDPR":"False",
+			"iso2": "AM"
+        },
+        {
+            "value": "ABW",
+            "label": "Aruba",
+			"isGDPR":"False",
+			"iso2": "AW"
+        },
+        {
+            "value": "AUS",
+            "label": "Australia",
+			"isGDPR":"False",
+			"iso2": "AU"
+        },
+        {
+            "value": "AUT",
+            "label": "Austria",
+			"isGDPR":"True",
+			"iso2": "AT"
+        },
+        {
+            "value": "AZE",
+            "label": "Azerbaijan",
+			"isGDPR":"False",
+			"iso2": "AZ"
+        },
+        {
+            "value": "BHS",
+            "label": "Bahamas",
+			"isGDPR":"False",
+			"iso2": "BS"
+        },
+        {
+            "value": "BHR",
+            "label": "Bahrain",
+			"isGDPR":"False",
+			"iso2": "BH"
+        },
+        {
+            "value": "BGD",
+            "label": "Bangladesh",
+			"isGDPR":"False",
+			"iso2": "BD"
+        },
+        {
+            "value": "BRB",
+            "label": "Barbados",
+			"isGDPR":"False",
+			"iso2": "BB"
+        },
+        {
+            "value": "BLR",
+            "label": "Belarus",
+			"isGDPR":"False",
+			"iso2": "BY"
+        },
+        {
+            "value": "BEL",
+            "label": "Belgium",
+			"isGDPR":"True",
+			"iso2": "BE"
+        },
+        {
+            "value": "BLZ",
+            "label": "Belize",
+			"isGDPR":"False",
+			"iso2": "BZ"
+        },
+        {
+            "value": "BEN",
+            "label": "Benin",
+			"isGDPR":"False",
+			"iso2": "BJ"
+        },
+        {
+            "value": "BMU",
+            "label": "Bermuda",
+			"isGDPR":"False",
+			"iso2": "BM"
+        },
+        {
+            "value": "BTN",
+            "label": "Bhutan",
+			"isGDPR":"False",
+			"iso2": "BT"
+        },
+        {
+            "value": "BOL",
+            "label": "Bolivia",
+			"isGDPR":"False",
+			"iso2": "BO"
+        },
+        {
+            "value": "BES",
+            "label": "Bonaire, Sint Eustatius And Saba",
+			"isGDPR":"False",
+			"iso2": "BQ"
+        },
+        {
+            "value": "BIH",
+            "label": "Bosnia & Herzegovina",
+			"isGDPR":"False",
+			"iso2": "BA"
+        },
+        {
+            "value": "BWA",
+            "label": "Botswana",
+			"isGDPR":"False",
+			"iso2": "BW"
+        },
+        {
+            "value": "BVT",
+            "label": "Bouvet Island",
+			"isGDPR":"False",
+			"iso2": "BV"
+        },
+        {
+            "value": "BRA",
+            "label": "Brazil",
+			"isGDPR":"False",
+			"iso2": "BR"
+        },
+        {
+            "value": "IOT",
+            "label": "British Indian Ocean",
+			"isGDPR":"False",
+			"iso2": "IO"
+        },
+        {
+            "value": "BRN",
+            "label": "Brunei Darussalam",
+			"isGDPR":"False",
+			"iso2": "BN"
+        },
+        {
+            "value": "BGR",
+            "label": "Bulgaria",
+			"isGDPR":"True",
+			"iso2": "BG"
+        },
+        {
+            "value": "BFA",
+            "label": "Burkina Faso",
+			"isGDPR":"False",
+			"iso2": "BF"
+        },
+        {
+            "value": "BDI",
+            "label": "Burundi",
+			"isGDPR":"False",
+			"iso2": "BI"
+        },
+        {
+            "value": "KHM",
+            "label": "Cambodia",
+			"isGDPR":"False",
+			"iso2": "KH"
+        },
+        {
+            "value": "CMR",
+            "label": "Cameroon",
+			"isGDPR":"False",
+			"iso2": "CM"
+        },
+        {
+            "value": "CAN",
+            "label": "Canada",
+			"isGDPR":"True",
+			"iso2": "CA"
+        },
+        {
+            "value": "CPV",
+            "label": "Cape Verde",
+			"isGDPR":"False",
+			"iso2": "CV"
+        },
+        {
+            "value": "CYM",
+            "label": "Cayman Islands",
+			"isGDPR":"False",
+			"iso2": "KY"
+        },
+        {
+            "value": "CAF",
+            "label": "Central African Rep",
+			"isGDPR":"False",
+			"iso2": "CF"
+        },
+        {
+            "value": "TCD",
+            "label": "Chad",
+			"isGDPR":"False",
+			"iso2": "TD"
+        },
+        {
+            "value": "CHL",
+            "label": "Chile",
+			"isGDPR":"False",
+			"iso2": "CL"
+        },
+        {
+            "value": "CHN",
+            "label": "China",
+			"isGDPR":"False",
+			"iso2": "CN"
+        },
+        {
+            "value": "CXR",
+            "label": "Christmas Island",
+			"isGDPR":"False",
+			"iso2": "CX"
+        },
+        {
+            "value": "CCK",
+            "label": "Cocos Islands",
+			"isGDPR":"False",
+			"iso2": "CC"
+        },
+        {
+            "value": "COL",
+            "label": "Colombia",
+			"isGDPR":"False",
+			"iso2": "CO"
+        },
+        {
+            "value": "COM",
+            "label": "Comoros",
+			"isGDPR":"False",
+			"iso2": "KM"
+        },
+        {
+            "value": "COG",
+            "label": "Congo",
+			"isGDPR":"False",
+			"iso2": "CG"
+        },
+        {
+            "value": "COD",
+            "label": "Congo, Dem Rep Of",
+			"isGDPR":"False",
+			"iso2": "CD"
+        },
+        {
+            "value": "COK",
+            "label": "Cook Islands",
+			"isGDPR":"False",
+			"iso2": "CK"
+        },
+        {
+            "value": "CRI",
+            "label": "Costa Rica",
+			"isGDPR":"False",
+			"iso2": "CR"
+        },
+        {
+            "value": "CIV",
+            "label": "Cote D'Ivoire",
+			"isGDPR":"False",
+			"iso2": "CI"
+        },
+        {
+            "value": "HRV",
+            "label": "Croatia",
+			"isGDPR":"True",
+			"iso2": "HR"
+        },
+        {
+            "value": "CUB",
+            "label": "Cuba",
+			"isGDPR":"False",
+			"iso2": "CU"
+        },
+        {
+            "value": "CUW",
+            "label": "Curacao",
+			"isGDPR":"False",
+			"iso2": "CW"
+        },
+        {
+            "value": "CYP",
+            "label": "Cyprus",
+			"isGDPR":"True",
+			"iso2": "CY"
+        },
+        {
+            "value": "CZE",
+            "label": "Czech Republic",
+			"isGDPR":"True",
+			"iso2": "CZ"
+        },
+        {
+            "value": "DNK",
+            "label": "Denmark",
+			"isGDPR":"True",
+			"iso2": "DK"
+        },
+        {
+            "value": "DJI",
+            "label": "Djibouti",
+			"isGDPR":"False",
+			"iso2": "DJ"
+        },
+        {
+            "value": "DMA",
+            "label": "Dominica",
+			"isGDPR":"False",
+			"iso2": "DM"
+        },
+        {
+            "value": "DOM",
+            "label": "Dominican Republic",
+			"isGDPR":"False",
+			"iso2": "DO"
+        },
+        {
+            "value": "ECU",
+            "label": "Ecuador",
+			"isGDPR":"False",
+			"iso2": "EC"
+        },
+        {
+            "value": "EGY",
+            "label": "Egypt",
+			"isGDPR":"False",
+			"iso2": "EG"
+        },
+        {
+            "value": "SLV",
+            "label": "El Salvador",
+			"isGDPR":"False",
+			"iso2": "SV"
+        },
+        {
+            "value": "GNQ",
+            "label": "Equatorial Guinea",
+			"isGDPR":"False",
+			"iso2": "GQ"
+        },
+        {
+            "value": "ERI",
+            "label": "Eritrea",
+			"isGDPR":"False",
+			"iso2": "ER"
+        },
+        {
+            "value": "EST",
+            "label": "Estonia",
+			"isGDPR":"True",
+			"iso2": "EE"
+        },
+        {
+            "value": "ETH",
+            "label": "Ethiopia",
+			"isGDPR":"False",
+			"iso2": "ET"
+        },
+        {
+            "value": "FLK",
+            "label": "Falkland Islands",
+			"isGDPR":"False",
+			"iso2": "FK"
+        },
+        {
+            "value": "FRO",
+            "label": "Faroe Islands",
+			"isGDPR":"False",
+			"iso2": "FO"
+        },
+        {
+            "value": "FJI",
+            "label": "Fiji",
+			"isGDPR":"False",
+			"iso2": "FJ"
+        },
+        {
+            "value": "FIN",
+            "label": "Finland",
+			"isGDPR":"True",
+			"iso2": "FI"
+        },
+        {
+            "value": "FRA",
+            "label": "France",
+			"isGDPR":"True",
+			"iso2": "FR"
+        },
+        {
+            "value": "GUF",
+            "label": "French Guiana",
+			"isGDPR":"False",
+			"iso2": "GF"
+        },
+        {
+            "value": "PYF",
+            "label": "French Polynesia",
+			"isGDPR":"False",
+			"iso2": "PF"
+        },
+        {
+            "value": "ATF",
+            "label": "French So Terr.",
+			"isGDPR":"False",
+			"iso2": "TF"
+        },
+        {
+            "value": "GAB",
+            "label": "Gabon",
+			"isGDPR":"False",
+			"iso2": "GA"
+        },
+        {
+            "value": "GMB",
+            "label": "Gambia",
+			"isGDPR":"False",
+			"iso2": "GM"
+        },
+        {
+            "value": "GEO",
+            "label": "Georgia",
+			"isGDPR":"False",
+			"iso2": "GE"
+        },
+        {
+            "value": "DEU",
+            "label": "Germany",
+			"isGDPR":"True",
+			"iso2": "DE"
+        },
+        {
+            "value": "GHA",
+            "label": "Ghana",
+			"isGDPR":"False",
+			"iso2": "GH"
+        },
+        {
+            "value": "GIB",
+            "label": "Gibraltar",
+			"isGDPR":"False",
+			"iso2": "GI"
+        },
+        {
+            "value": "GRC",
+            "label": "Greece",
+			"isGDPR":"True",
+			"iso2": "GR"
+        },
+        {
+            "value": "GRL",
+            "label": "Greenland",
+			"isGDPR":"False",
+			"iso2": "GL"
+        },
+        {
+            "value": "GRD",
+            "label": "Grenada",
+			"isGDPR":"False",
+			"iso2": "GD"
+        },
+        {
+            "value": "GLP",
+            "label": "Guadeloupe",
+			"isGDPR":"False",
+			"iso2": "GP"
+        },
+        {
+            "value": "GTM",
+            "label": "Guatemala",
+			"isGDPR":"False",
+			"iso2": "GT"
+        },
+        {
+            "value": "GGY",
+            "label": "Guernsey",
+			"isGDPR":"False",
+			"iso2": "GG"
+        },
+        {
+            "value": "GIN",
+            "label": "Guinea",
+			"isGDPR":"False",
+			"iso2": "GN"
+        },
+        {
+            "value": "GNB",
+            "label": "Guinea-Bissau",
+			"isGDPR":"False",
+			"iso2": "GW"
+        },
+        {
+            "value": "GUY",
+            "label": "Guyana",
+			"isGDPR":"False",
+			"iso2": "GY"
+        },
+        {
+            "value": "HTI",
+            "label": "Haiti",
+			"isGDPR":"False",
+			"iso2": "HT"
+        },
+        {
+            "value": "HMD",
+            "label": "Heard & Mcdonald Isl",
+			"isGDPR":"False",
+			"iso2": "HM"
+        },
+        {
+            "value": "VAT",
+            "label": "Holy See (Vatican)",
+			"isGDPR":"False",
+			"iso2": "VA"
+        },
+        {
+            "value": "HND",
+            "label": "Honduras",
+			"isGDPR":"False",
+			"iso2": "HN"
+        },
+        {
+            "value": "HKG",
+            "label": "Hong Kong",
+			"isGDPR":"False",
+			"iso2": "HK"
+        },
+        {
+            "value": "HUN",
+            "label": "Hungary",
+			"isGDPR":"True",
+			"iso2": "HU"
+        },
+        {
+            "value": "ISL",
+            "label": "Iceland",
+			"isGDPR":"True",
+			"iso2": "IS"
+        },
+        {
+            "value": "IND",
+            "label": "India",
+			"isGDPR":"False",
+			"iso2": "IN"
+        },
+        {
+            "value": "IDN",
+            "label": "Indonesia",
+			"isGDPR":"False",
+			"iso2": "ID"
+        },
+        {
+            "value": "IRN",
+            "label": "Iran",
+			"isGDPR":"False",
+			"iso2": "IR"
+        },
+        {
+            "value": "IRQ",
+            "label": "Iraq",
+			"isGDPR":"False",
+			"iso2": "IQ"
+        },
+        {
+            "value": "IRL",
+            "label": "Ireland",
+			"isGDPR":"True",
+			"iso2": "IE"
+        },
+        {
+            "value": "IMN",
+            "label": "Isle Of Man",
+			"isGDPR":"False",
+			"iso2": "IM"
+        },
+        {
+            "value": "ISR",
+            "label": "Israel",
+			"isGDPR":"False",
+			"iso2": "IL"
+        },
+        {
+            "value": "ITA",
+            "label": "Italy",
+			"isGDPR":"True",
+			"iso2": "IT"
+        },
+        {
+            "value": "JAM",
+            "label": "Jamaica",
+			"isGDPR":"False",
+			"iso2": "JM"
+        },
+        {
+            "value": "JPN",
+            "label": "Japan",
+			"isGDPR":"False",
+			"iso2": "JP"
+        },
+        {
+            "value": "JEY",
+            "label": "Jersey",
+			"isGDPR":"False",
+			"iso2": "JE"
+        },
+        {
+            "value": "JOR",
+            "label": "Jordan",
+			"isGDPR":"False",
+			"iso2": "JO"
+        },
+        {
+            "value": "KAZ",
+            "label": "Kazakhstan",
+			"isGDPR":"False",
+			"iso2": "KZ"
+        },
+        {
+            "value": "KEN",
+            "label": "Kenya",
+			"isGDPR":"False",
+			"iso2": "KE"
+        },
+        {
+            "value": "KIR",
+            "label": "Kiribati",
+			"isGDPR":"False",
+			"iso2": "KI"
+        },
+        {
+            "value": "PRK",
+            "label": "Korea (North)",
+			"isGDPR":"False",
+			"iso2": "KP"
+        },
+        {
+            "value": "KOR",
+            "label": "Korea (South)",
+			"isGDPR":"False",
+			"iso2": "KR"
+        },
+        {
+            "value": "KWT",
+            "label": "Kuwait",
+			"isGDPR":"False",
+			"iso2": "KW"
+        },
+        {
+            "value": "KGZ",
+            "label": "Kyrgyzstan",
+			"isGDPR":"False",
+			"iso2": "KG"
+        },
+        {
+            "value": "LAO",
+            "label": "Laos",
+			"isGDPR":"False",
+			"iso2": "LA"
+        },
+        {
+            "value": "LVA",
+            "label": "Latvia",
+			"isGDPR":"True",
+			"iso2": "LV"
+        },
+        {
+            "value": "LBN",
+            "label": "Lebanon",
+			"isGDPR":"False",
+			"iso2": "LB"
+        },
+        {
+            "value": "LSO",
+            "label": "Lesotho",
+			"isGDPR":"False",
+			"iso2": "LS"
+        },
+        {
+            "value": "LBR",
+            "label": "Liberia",
+			"isGDPR":"False",
+			"iso2": "LR"
+        },
+        {
+            "value": "LBY",
+            "label": "Libya",
+			"isGDPR":"False",
+			"iso2": "LY"
+        },
+        {
+            "value": "LIE",
+            "label": "Liechtenstein",
+			"isGDPR":"True",
+			"iso2": "LI"
+        },
+        {
+            "value": "LTU",
+            "label": "Lithuania",
+			"isGDPR":"True",
+			"iso2": "LT"
+        },
+        {
+            "value": "LUX",
+            "label": "Luxembourg",
+			"isGDPR":"True",
+			"iso2": "LU"
+        },
+        {
+            "value": "MAC",
+            "label": "Macao",
+			"isGDPR":"False",
+			"iso2": "MO"
+        },
+        {
+            "value": "MKD",
+            "label": "Macedonia",
+			"isGDPR":"True",
+			"iso2": "MK"
+        },
+        {
+            "value": "MDG",
+            "label": "Madagascar",
+			"isGDPR":"False",
+			"iso2": "MG"
+        },
+        {
+            "value": "MWI",
+            "label": "Malawi",
+			"isGDPR":"False",
+			"iso2": "MW"
+        },
+        {
+            "value": "MYS",
+            "label": "Malaysia",
+			"isGDPR":"False",
+			"iso2": "MY"
+        },
+        {
+            "value": "MDV",
+            "label": "Maldives",
+			"isGDPR":"False",
+			"iso2": "MV"
+        },
+        {
+            "value": "MLI",
+            "label": "Mali",
+			"isGDPR":"False",
+			"iso2": "ML"
+        },
+        {
+            "value": "MLT",
+            "label": "Malta",
+			"isGDPR":"True",
+			"iso2": "MT"
+        },
+        {
+            "value": "MTQ",
+            "label": "Martinique",
+			"isGDPR":"False",
+			"iso2": "MQ"
+        },
+        {
+            "value": "MRT",
+            "label": "Mauritania",
+			"isGDPR":"False",
+			"iso2": "MR"
+        },
+        {
+            "value": "MUS",
+            "label": "Mauritius",
+			"isGDPR":"False",
+			"iso2": "MU"
+        },
+        {
+            "value": "MYT",
+            "label": "Mayotte",
+			"isGDPR":"False",
+			"iso2": "YT"
+        },
+        {
+            "value": "MEX",
+            "label": "Mexico",
+			"isGDPR":"False",
+			"iso2": "MX"
+        },
+        {
+            "value": "MDA",
+            "label": "Moldova",
+			"isGDPR":"False",
+			"iso2": "MD"
+        },
+        {
+            "value": "MCO",
+            "label": "Monaco",
+			"isGDPR":"False",
+			"iso2": "MC"
+        },
+        {
+            "value": "MNG",
+            "label": "Mongolia",
+			"isGDPR":"False",
+			"iso2": "MN"
+        },
+        {
+            "value": "MNE",
+            "label": "Montenegro",
+			"isGDPR":"True",
+			"iso2": "ME"
+        },
+        {
+            "value": "MSR",
+            "label": "Montserrat",
+			"isGDPR":"False",
+			"iso2": "MS"
+        },
+        {
+            "value": "MAR",
+            "label": "Morocco",
+			"isGDPR":"False",
+			"iso2": "MA"
+        },
+        {
+            "value": "MOZ",
+            "label": "Mozambique",
+			"isGDPR":"False",
+			"iso2": "MZ"
+        },
+        {
+            "value": "MMR",
+            "label": "Myanmar",
+			"isGDPR":"False",
+			"iso2": "MM"
+        },
+        {
+            "value": "NAM",
+            "label": "Namibia",
+			"isGDPR":"False",
+			"iso2": "NA"
+        },
+        {
+            "value": "NRU",
+            "label": "Nauru",
+			"isGDPR":"False",
+			"iso2": "NR"
+        },
+        {
+            "value": "NPL",
+            "label": "Nepal",
+			"isGDPR":"False",
+			"iso2": "NP"
+        },
+        {
+            "value": "NLD",
+            "label": "Netherlands",
+			"isGDPR":"True",
+			"iso2": "NL"
+        },
+        {
+            "value": "ANT",
+            "label": "Netherlands Antilles",
+			"isGDPR":"False",
+			"iso2": "AN"
+        },
+        {
+            "value": "NCL",
+            "label": "New Caledonia",
+			"isGDPR":"False",
+			"iso2": "NC"
+        },
+        {
+            "value": "NZL",
+            "label": "New Zealand",
+			"isGDPR":"False",
+			"iso2": "NZ"
+        },
+        {
+            "value": "NIC",
+            "label": "Nicaragua",
+			"isGDPR":"False",
+			"iso2": "NI"
+        },
+        {
+            "value": "NER",
+            "label": "Niger",
+			"isGDPR":"False",
+			"iso2": "NE"
+        },
+        {
+            "value": "NGA",
+            "label": "Nigeria",
+			"isGDPR":"False",
+			"iso2": "NG"
+        },
+        {
+            "value": "NIU",
+            "label": "Niue",
+			"isGDPR":"False",
+			"iso2": "NU"
+        },
+        {
+            "value": "NFK",
+            "label": "Norfolk Island",
+			"isGDPR":"False",
+			"iso2": "NF"
+        },
+        {
+            "value": "NOR",
+            "label": "Norway",
+			"isGDPR":"True",
+			"iso2": "NO"
+        },
+        {
+            "value": "OMN",
+            "label": "Oman",
+			"isGDPR":"False",
+			"iso2": "OM"
+        },
+        {
+            "value": "PAK",
+            "label": "Pakistan",
+			"isGDPR":"False",
+			"iso2": "PK"
+        },
+        {
+            "value": "PSE",
+            "label": "Palestinian Terr/Occ",
+			"isGDPR":"False",
+			"iso2": "PS"
+        },
+        {
+            "value": "PAN",
+            "label": "Panama",
+			"isGDPR":"False",
+			"iso2": "PA"
+        },
+        {
+            "value": "PNG",
+            "label": "Papua New Guinea",
+			"isGDPR":"False",
+			"iso2": "PG"
+        },
+        {
+            "value": "PRY",
+            "label": "Paraguay",
+			"isGDPR":"False",
+			"iso2": "PY"
+        },
+        {
+            "value": "PER",
+            "label": "Peru",
+			"isGDPR":"False",
+			"iso2": "PE"
+        },
+        {
+            "value": "PHL",
+            "label": "Philippines",
+			"isGDPR":"False",
+			"iso2": "PH"
+        },
+        {
+            "value": "PCN",
+            "label": "Pitcairn",
+			"isGDPR":"False",
+			"iso2": "PN"
+        },
+        {
+            "value": "POL",
+            "label": "Poland",
+			"isGDPR":"True",
+			"iso2": "PL"
+        },
+        {
+            "value": "PRT",
+            "label": "Portugal",
+			"isGDPR":"True",
+			"iso2": "PT"
+        },
+        {
+            "value": "QAT",
+            "label": "Qatar",
+			"isGDPR":"False",
+			"iso2": "QA"
+        },
+        {
+            "value": "REU",
+            "label": "Reunion",
+			"isGDPR":"False",
+			"iso2": "RE"
+        },
+        {
+            "value": "ROU",
+            "label": "Romania",
+			"isGDPR":"True",
+			"iso2": "RO"
+        },
+        {
+            "value": "RUS",
+            "label": "Russian Federation",
+			"isGDPR":"False",
+			"iso2": "RU"
+        },
+        {
+            "value": "RWA",
+            "label": "Rwanda",
+			"isGDPR":"False",
+			"iso2": "RW"
+        },
+        {
+            "value": "BLM",
+            "label": "Saint Barthelemy",
+			"isGDPR":"False",
+			"iso2": "BL"
+        },
+        {
+            "value": "SHN",
+            "label": "Saint Helena",
+			"isGDPR":"False",
+			"iso2": "SH"
+        },
+        {
+            "value": "KNA",
+            "label": "Saint Kitts & Nevis",
+			"isGDPR":"False",
+			"iso2": "KN"
+        },
+        {
+            "value": "LCA",
+            "label": "Saint Lucia",
+			"isGDPR":"False",
+			"iso2": "LC"
+        },
+        {
+            "value": "MAF",
+            "label": "Saint Martin (French)",
+			"isGDPR":"False",
+			"iso2": "MF"
+        },
+        {
+            "value": "VCT",
+            "label": "Saint Vincent & Gren",
+			"isGDPR":"False",
+			"iso2": "VC"
+        },
+        {
+            "value": "WSM",
+            "label": "Samoa",
+			"isGDPR":"False",
+			"iso2": "WS"
+        },
+        {
+            "value": "SMR",
+            "label": "San Marino",
+			"isGDPR":"False",
+			"iso2": "SM"
+        },
+        {
+            "value": "STP",
+            "label": "Sao Tome & Principe",
+			"isGDPR":"False",
+			"iso2": "ST"
+        },
+        {
+            "value": "SAU",
+            "label": "Saudi Arabia",
+			"isGDPR":"False",
+			"iso2": "SA"
+        },
+        {
+            "value": "SEN",
+            "label": "Senegal",
+			"isGDPR":"False",
+			"iso2": "SN"
+        },
+        {
+            "value": "SRB",
+            "label": "Serbia",
+			"isGDPR":"True",
+			"iso2": "RS"
+        },
+        {
+            "value": "SYC",
+            "label": "Seychelles",
+			"isGDPR":"False",
+			"iso2": "SC"
+        },
+        {
+            "value": "SLE",
+            "label": "Sierra Leone",
+			"isGDPR":"False",
+			"iso2": "SL"
+        },
+        {
+            "value": "SGP",
+            "label": "Singapore",
+			"isGDPR":"False",
+			"iso2": "SG"
+        },
+        {
+            "value": "SXM",
+            "label": "Sint Maarten (Dutch)",
+			"isGDPR":"False",
+			"iso2": "SX"
+        },
+        {
+            "value": "SVK",
+            "label": "Slovakia",
+			"isGDPR":"True",
+			"iso2": "SK"
+        },
+        {
+            "value": "SVN",
+            "label": "Slovenia",
+			"isGDPR":"True",
+			"iso2": "SI"
+        },
+        {
+            "value": "SLB",
+            "label": "Solomon Islands",
+			"isGDPR":"False",
+			"iso2": "SB"
+        },
+        {
+            "value": "SOM",
+            "label": "Somalia",
+			"isGDPR":"False",
+			"iso2": "SO"
+        },
+        {
+            "value": "ZAF",
+            "label": "South Africa",
+			"isGDPR":"False",
+			"iso2": "ZA"
+        },
+        {
+            "value": "SGS",
+            "label": "South Georgia",
+			"isGDPR":"False",
+			"iso2": "GS"
+        },
+        {
+            "value": "SSD",
+            "label": "South Sudan",
+			"isGDPR":"False",
+			"iso2": "SS"
+        },
+        {
+            "value": "ESP",
+            "label": "Spain",
+			"isGDPR":"True",
+			"iso2": "ES"
+        },
+        {
+            "value": "LKA",
+            "label": "Sri Lanka",
+			"isGDPR":"False",
+			"iso2": "LK"
+        },
+        {
+            "value": "SPM",
+            "label": "St Pierre & Miquelon",
+			"isGDPR":"False",
+			"iso2": "PM"
+        },
+        {
+            "value": "SDN",
+            "label": "Sudan",
+			"isGDPR":"False",
+			"iso2": "SD"
+        },
+        {
+            "value": "SUR",
+            "label": "Suriname",
+			"isGDPR":"False",
+			"iso2": "SR"
+        },
+        {
+            "value": "SJM",
+            "label": "Svalbard & Jan Mayen",
+			"isGDPR":"False",
+			"iso2": "SJ"
+        },
+        {
+            "value": "SWZ",
+            "label": "Swaziland",
+			"isGDPR":"False",
+			"iso2": "SZ"
+        },
+        {
+            "value": "SWE",
+            "label": "Sweden",
+			"isGDPR":"True",
+			"iso2": "SE"
+        },
+        {
+            "value": "CHE",
+            "label": "Switzerland",
+			"isGDPR":"True",
+			"iso2": "CH"
+        },
+        {
+            "value": "SYR",
+            "label": "Syria",
+			"isGDPR":"False",
+			"iso2": "SY"
+        },
+        {
+            "value": "TWN",
+            "label": "Taiwan",
+			"isGDPR":"False",
+			"iso2": "TW"
+        },
+        {
+            "value": "TJK",
+            "label": "Tajikistan",
+			"isGDPR":"False",
+			"iso2": "TJ"
+        },
+        {
+            "value": "TZA",
+            "label": "Tanzania",
+			"isGDPR":"False",
+			"iso2": "TZ"
+        },
+        {
+            "value": "THA",
+            "label": "Thailand",
+			"isGDPR":"False",
+			"iso2": "TH"
+        },
+        {
+            "value": "TLS",
+            "label": "Timor-Leste",
+			"isGDPR":"False",
+			"iso2": "TL"
+        },
+        {
+            "value": "TGO",
+            "label": "Togo",
+			"isGDPR":"False",
+			"iso2": "TG"
+        },
+        {
+            "value": "TKL",
+            "label": "Tokelau",
+			"isGDPR":"False",
+			"iso2": "TK"
+        },
+        {
+            "value": "TON",
+            "label": "Tonga",
+			"isGDPR":"False",
+			"iso2": "TO"
+        },
+        {
+            "value": "TTO",
+            "label": "Trinidad And Tobago",
+			"isGDPR":"False",
+			"iso2": "TT"
+        },
+        {
+            "value": "TUN",
+            "label": "Tunisia",
+			"isGDPR":"False",
+			"iso2": "TN"
+        },
+        {
+            "value": "TUR",
+            "label": "Turkey",
+			"isGDPR":"True",
+			"iso2": "TR"
+        },
+        {
+            "value": "TKM",
+            "label": "Turkmenistan",
+			"isGDPR":"False",
+			"iso2": "TM"
+        },
+        {
+            "value": "TCA",
+            "label": "Turks & Caicos Isl",
+			"isGDPR":"False",
+			"iso2": "TC"
+        },
+        {
+            "value": "TUV",
+            "label": "Tuvalu",
+			"isGDPR":"False",
+			"iso2": "TV"
+        },
+        {
+            "value": "UGA",
+            "label": "Uganda",
+			"isGDPR":"False",
+			"iso2": "UG"
+        },
+        {
+            "value": "UKR",
+            "label": "Ukraine",
+			"isGDPR":"False",
+			"iso2": "UA"
+        },
+        {
+            "value": "ARE",
+            "label": "United Arab Emirates",
+			"isGDPR":"False",
+			"iso2": "AE"
+        },
+        {
+            "value": "GBR",
+            "label": "United Kingdom",
+			"isGDPR":"True",
+			"iso2": "GB"
+        },
+        {
+            "value": "URY",
+            "label": "Uruguay",
+			"isGDPR":"False",
+			"iso2": "UY"
+        },
+        {
+            "value": "UZB",
+            "label": "Uzbekistan",
+			"isGDPR":"False",
+			"iso2": "UZ"
+        },
+        {
+            "value": "VUT",
+            "label": "Vanuatu",
+			"isGDPR":"False",
+			"iso2": "VU"
+        },
+        {
+            "value": "VEN",
+            "label": "Venezuela",
+			"isGDPR":"False",
+			"iso2": "VE"
+        },
+        {
+            "value": "VNM",
+            "label": "Vietnam",
+			"isGDPR":"False",
+			"iso2": "VN"
+        },
+        {
+            "value": "VGB",
+            "label": "Virgin Islands (UK)",
+			"isGDPR":"False",
+			"iso2": "VG"
+        },
+        {
+            "value": "WLF",
+            "label": "Wallis & Futuna",
+			"isGDPR":"False",
+			"iso2": "WF"
+        },
+        {
+            "value": "ESH",
+            "label": "Western Sahara",
+			"isGDPR":"False",
+			"iso2": "EH"
+        },
+        {
+            "value": "YEM",
+            "label": "Yemen",
+			"isGDPR":"False",
+			"iso2": "YE"
+        },
+        {
+            "value": "ZMB",
+            "label": "Zambia",
+			"isGDPR":"False",
+			"iso2": "ZM"
+        },
+        {
+            "value": "ZWE",
+            "label": "Zimbabwe",
+			"isGDPR":"False",
+			"iso2": "ZW"
+        }
+    ]
+}

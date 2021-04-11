@@ -1,0 +1,156 @@
+{
+    "items": [
+        {
+            "label": ".al",
+            "value": ".al"
+        },
+        {
+            "label": ".at",
+            "value": ".at"
+        },
+        {
+            "label": ".be",
+            "value": ".be"
+        },
+        {
+            "label": ".bg",
+            "value": ".bg"
+        },
+        {
+            "label": ".ca",
+            "value": ".ca"
+        },
+        {
+            "label": ".hr",
+            "value": ".hr"
+        },
+        {
+            "label": ".cy",
+            "value": ".cy"
+        },
+        {
+            "label": ".cz",
+            "value": ".cz"
+        },
+        {
+            "label": ".dk",
+            "value": ".dk"
+        },
+        {
+            "label": ".ee",
+            "value": ".ee"
+        },
+        {
+            "label": ".fi",
+            "value": ".fi"
+        },
+        {
+            "label": ".fr",
+            "value": ".fr"
+        },
+        {
+            "label": ".de",
+            "value": ".de"
+        },
+        {
+            "label": ".gr",
+            "value": ".gr"
+        },
+        {
+            "label": ".hu",
+            "value": ".hu"
+        },
+        {
+            "label": ".is",
+            "value": ".is"
+        },
+        {
+            "label": ".ie",
+            "value": ".ie"
+        },
+        {
+            "label": ".it",
+            "value": ".it"
+        },
+        {
+            "label": ".lv",
+            "value": ".lv"
+        },
+        {
+            "label": ".li",
+            "value": ".li"
+        },
+        {
+            "label": ".lt",
+            "value": ".lt"
+        },
+        {
+            "label": ".lu",
+            "value": ".lu"
+        },
+        {
+            "label": ".mk",
+            "value": ".mk"
+        },
+        {
+            "label": ".mt",
+            "value": ".mt"
+        },
+        {
+            "label": ".me",
+            "value": ".me"
+        },
+        {
+            "label": ".nl",
+            "value": ".nl"
+        },
+        {
+            "label": ".no",
+            "value": ".no"
+        },
+        {
+            "label": ".pl",
+            "value": ".pl"
+        },
+        {
+            "label": ".pt",
+            "value": ".pt"
+        },
+        {
+            "label": ".ro",
+            "value": ".ro"
+        },
+        {
+            "label": ".rs",
+            "value": ".rs"
+        },
+        {
+            "label": ".sk",
+            "value": ".sk"
+        },
+        {
+            "label": ".si",
+            "value": ".si"
+        },
+        {
+            "label": ".es",
+            "value": ".es"
+        },
+        {
+            "label": ".se",
+            "value": ".se"
+        },
+        {
+            "label": ".ch",
+            "value": ".ch"
+        },
+        {
+            "label": ".tr",
+            "value": ".tr"
+        },
+        {
+            "label": ".uk",
+            "value": ".uk"
+        }
+    ]
+}

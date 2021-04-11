@@ -1,0 +1,43 @@
+{
+  "payment": {
+    "paymentAmount": 189,
+    "paymentType": "cashondelivery"
+  },
+  "customer": {
+    "firstName": "2021.01.29.18.58.34firstName",
+    "lastName": "2021.01.29.18.58.34lastName",
+    "email": "2021.01.29.18.58.34automation@nejmautoemail.com",
+    "catalystRenewalCode": ""
+  },
+  "order": {
+    "orderEntityId": "000004917",
+    "createdAt": "2021-01-29T18:58:41Z",
+    "totalDue": 189,
+    "storeId": 1,
+    "storeCurrencyCode": "USD",
+    "vatNumber": "",
+    "isComp": false,
+    "compCode": "XYZ",
+    "isRenewal": false,
+    "orderLines": [
+      {
+        "orderLineNumber": 1,
+        "brand": "NEJM",
+        "sku": "NEJ-NEJ",
+        "term": "56 issues",
+        "autoRenew": true,
+        "price": 189,
+        "tax": 0,
+        "quantity": 1,
+        "promoCode": "none"
+      }
+    ],
+    "billToAddress": {
+      "address": "100 Norway St",
+      "city": "Boston",
+      "state": "MA",
+      "country": "US",
+      "postalCode": "02115"
+    }
+  }
+}

@@ -1,0 +1,58 @@
+{
+    "payment": {
+        "paymentAmount": 229.0,
+        "paymentType": "md_firstdata",
+        "creditCardInfo": {
+            "cardType": "VISA",
+            "cardToken": "9493954200331111",
+            "customerName": "Jinx Deshmukh",
+            "expirationMonth": 11,
+            "expirationYear": 2028,
+            "lastFour": "1111",
+            "securityCode": "123",
+            "authorization": {
+                "authDate": "2021-01-26T16:52:18.408943519Z",
+                "authCode": "12345",
+                "authNumber": "12345"
+            }
+        }
+    },
+    "customer": {
+        "firstName": "2021.04.02.12.55.40fname",
+        "lastName": "2021.04.02.12.55.40lname",
+        "email": "2021.04.02.12.55.40automation@nejmautoemail.com",
+        "catalystRenewalCode": ""
+    },
+    "order": {
+        "orderEntityId": "QJLjIf",
+        "createdAt": "2021-01-26T16:52:18.411100788Z",
+        "totalDue": 205.82,
+        "storeId": 1,
+        "storeCurrencyCode": "USD",
+        "vatNumber": "",
+        "isComp": true,
+        "compCode": "XYZ",
+        "isRenewal": false,
+        "orderLines": [
+            {
+                "orderLineNumber": 1,
+                "brand": "Catalyst",
+                "sku": "CAT-ANL-DFT",
+                "term": "1 Year",
+                "autoRenew": false,
+                "price": 189.0,
+                "tax": 16.82,
+                "quantity": 1,
+                "promoCode": "OCILSAAA"
+            }
+        ],
+        "billToAddress": {
+            "address": "916 W 2nd Ave",
+            "address2": "",
+            "city": "Spokane",
+            "state": "WA",
+            "country": "USA",
+            "postalCode": "99201"
+        }
+    }
+}

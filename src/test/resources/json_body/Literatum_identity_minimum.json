@@ -1,0 +1,16 @@
+[ 
+  { 
+    "identity": { 
+       "person-identity": { 
+         "person-name": { 
+           "given-names": "Sorin", 
+           "surname": "Testerxx" 
+         }, 
+        "login-auth-profile": { 
+          "login": "sterterxx", 
+          "password": "stester123" 
+        } 
+     } 
+  } 
+} 
+]

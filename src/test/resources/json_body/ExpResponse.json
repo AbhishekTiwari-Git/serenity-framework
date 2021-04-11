@@ -1,0 +1,55 @@
+{
+	"items": [
+		{
+			"name": "country"
+		},
+		{
+			"name": "placeOfWorkOrStudy"
+		},
+		{
+			"name": "primarySpecialty"
+		},
+		{
+			"name": "profession"
+		},
+		{
+			"name": "professionalCategory"
+		},
+		{
+			"name": "studentType"
+		},
+		{
+			"name": "suffix"
+		},
+		{
+			"name": "title"
+		},
+		{
+			"name": "physicianOrgSize"
+		},
+		{
+			"name": "netPatientRevenue"
+		},
+		{
+			"name": "buyingInfluence"
+		},
+		{
+			"name": "profitStatus"
+		},
+		{
+			"name": "healthSystemSize"
+		},
+		{
+			"name": "role"
+		},
+		{
+			"name": "hospitalSize"
+		},
+		{
+			"name": "countryDomainGDPR"
+		},
+		{
+			"name": "state"
+		}
+	]
+}

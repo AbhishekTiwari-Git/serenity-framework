@@ -1,0 +1,6 @@
+{
+"errors": [
+
+{ "code": 5, "description": "ERROR: Active subscription is found but with different CustomerID." }
+]
+}

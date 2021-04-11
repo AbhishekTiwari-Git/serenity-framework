@@ -1,0 +1,18 @@
+[
+    {
+        "label": "Most Relevant",
+        "value": "mostRelevant" 
+    },
+    {
+        "label": "Newest",
+        "value": "newest" 
+    },
+    {
+        "label": "Oldest",
+        "value": "oldest" 
+    },
+    {
+        "label": "Most Cited",
+        "value": "mostCited" 
+    }
+]

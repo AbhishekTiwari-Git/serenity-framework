@@ -1,0 +1,24 @@
+{
+    "products": [
+        {
+            "sku": "CAT-ANL-DFT",
+            "currency": "USD",
+            "terms": [
+                {
+                    "term": "1 year",
+                    "price": 229,
+                    "priceCode": "REG1Y",
+                    "quantity": null,
+                    "autoRenew": null
+                },
+                {
+                    "term": "2 year",
+                    "price": 458,
+                    "priceCode": "REG2Y",
+                    "quantity": null,
+                    "autoRenew": null
+                }
+            ]
+        }
+    ]
+}

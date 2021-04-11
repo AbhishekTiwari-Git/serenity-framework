@@ -1,0 +1,58 @@
+{
+  "payment": {
+    "paymentAmount": 189,
+    "paymentType": "md_firstdata",
+    "creditCardInfo": {
+      "cardType": "VI",
+      "cardToken": "4111111111111111",
+      "customerName": "Jinx Deshmukh",
+      "expirationMonth": 11,
+      "expirationYear": 2028,
+      "lastFour": "1111",
+      "securityCode": "123",
+      "authorization": {
+        "authDate": "2021-01-29T18:00:04Z",
+        "authCode": "12345",
+        "authNumber": "12345"
+      }
+    }
+  },
+  "customer": {
+    "firstName": "2021.01.29.17.59.59firstName",
+    "lastName": "2021.01.29.17.59.59lastName",
+    "email": "2021.01.29.17.59.59automation@nejmautoemail.com",
+    "catalystRenewalCode": ""
+  },
+  "order": {
+    "orderEntityId": "771243726",
+    "createdAt": "2021-01-29T18:00:04Z",
+    "totalDue": 189,
+    "storeId": 1,
+    "storeCurrencyCode": "USD",
+    "vatNumber": "",
+    "isComp": false,
+    "compCode": "XYZ",
+    "isRenewal": false,
+    "orderLines": [
+      {
+        "orderLineNumber": 1,
+        "brand": "Catalyst",
+        "sku": "CAT-ANL-DFT",
+        "term": "1 Year",
+        "autoRenew": true,
+        "price": 189,
+        "tax": 0,
+        "quantity": 1,
+        "promoCode": "WCJTEST1",
+        "priceCode": "REG1Y"
+      }
+    ],
+    "billToAddress": {
+      "address": "100 Norway St",
+      "city": "Boston",
+      "state": "MA",
+      "country": "US",
+      "postalCode": "02115"
+    }
+  }
+}

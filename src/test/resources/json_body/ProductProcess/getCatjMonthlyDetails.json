@@ -1,0 +1,12 @@
+{
+    "product": {
+        "magentoSku": "CAT-MTH",
+        "magentoTerm": "1 month",
+        "acsProductCode": "CATJ-IND",
+        "acsTerm": "M-0001",
+        "productName": "NEJM Catalyst Innovations in Care Delivery",
+        "brandName": "Catalyst",
+        "isDigital": true,
+        "productType": "Time Based"
+    }
+}

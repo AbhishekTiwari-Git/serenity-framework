@@ -1,0 +1,57 @@
+USA:
+  monthly: 19.97
+  yearly: 229.00  
+  freegift: 0.00
+  taxmonthly: 2.05
+  taxyearly: 23.47
+  totalmonthly: 22.02
+  totalyearly: 252.47
+CAN:
+  monthly: 25.00
+  yearly: 287.00
+  freegift: 0.00
+  taxmonthly: 1.25
+  taxyearly: 14.35
+  totalmonthly: 26.25
+  totalyearly: 301.35
+PRT:
+  monthly: 17.00
+  yearly: 196.00
+  freegift: 0.00
+  taxmonthly: 1.02
+  taxyearly: 11.76
+  totalmonthly: 18.02
+  totalyearly: 207.76
+  
+AUS:
+  monthly: 26.00
+  yearly: 299.00
+  freegift: 0.00
+  taxmonthly: 0.00
+  taxyearly: 0.00
+  totalmonthly: 26.00
+  totalyearly: 299.00
+GBR:
+  monthly: 14.00
+  yearly: 163.00
+  freegift: 0.00
+  taxmonthly: 0.00
+  taxyearly: 0.00
+  totalmonthly: 0.00
+  totalyearly: 0.00
+IND:
+  monthly: 19.97
+  yearly: 229.00
+  freegift: 0.00
+  taxmonthly: 0.00
+  taxyearly: 0.00
+  totalmonthly: 0.00
+  totalyearly: 0.00
+DEU:
+  monthly: 17.00
+  yearly: 196.00
+  freegift: 0.00
+  taxmonthly: 1.19
+  taxyearly: 13.72
+  totalmonthly: 18.19
+  totalyearly: 209.72

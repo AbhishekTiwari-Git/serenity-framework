@@ -1,0 +1,6 @@
+{
+"errors": [
+
+{ "code": 3, "description": "ERROR: Subscription is found but postal code is not matching." }
+]
+}

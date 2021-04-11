@@ -1,0 +1,19 @@
+{
+"ANC" : "Ancillary, Allied Provider (Pharmacy, Home Health Lab, Rehab, Post-Acute, etc.)",
+"CLI" : "Clinic",
+"COL" : "College or University",
+"GOV" : "Government Agency",
+"HMO" : "Health Plan/HMO/Insurer",
+"HOC" : "Hospital, Community",
+"HOO" : "Hospital, Other",
+"HOU" : "Hospital, University or Teaching",
+"HSM" : "Health System",
+"LTC" : "Long-term Care/SNF",
+"MSP" : "Medical School Program",
+"PHC" : "Pharmaceutical Company",
+"PHO" : "Physician Organization",
+"PRS" : "Professional Services (Consulting, Financial, Legal, etc.)",
+"REA" : "Research Facility",
+"TEV" : "Technology/Equipment Vendor or Supplier",
+"OTH" : "Other"
+}

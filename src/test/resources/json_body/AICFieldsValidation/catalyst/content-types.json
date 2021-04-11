@@ -1,0 +1,70 @@
+[
+    {
+        "value": "All",
+        "label": "all" 
+    },
+    {
+        "value": "Article",
+        "label": "article" 
+    },
+    {
+        "value": "Brief Article",
+        "label": "brief-article" 
+    },
+    {
+        "value": "Case Study",
+        "label": "case-study" 
+    },
+    {
+        "value": "Correction",
+        "label": "correction" 
+    },
+    {
+        "value": "Clip",
+        "label": "clip" 
+    },
+    {
+        "value": "Conversation",
+        "label": "conversation" 
+    },
+    {
+        "value": "From the Editors",
+        "label": "from-the-editors" 
+    },
+    {
+        "value": "In Depth",
+        "label": "in-depth" 
+    },
+    {
+        "value": "Insights Report",
+        "label": "insights-report" 
+    },
+    {
+        "value": "Insights Interview",
+        "label": "insights-interview" 
+    },
+    {
+        "value": "Retraction",
+        "label": "retraction" 
+    },
+    {
+        "value": "Review Article",
+        "label": "review-article" 
+    },
+    {
+        "value": "Survey Snapshot",
+        "label": "survey-snapshot" 
+    },
+    {
+        "value": "Talk",
+        "label": "talk" 
+    },
+    {
+        "value": "Viewpoints from Optum",
+        "label": "viewpoints-from-optum" 
+    },
+    {
+        "value": "Commentary",
+        "label": "commentary" 
+    }
+]

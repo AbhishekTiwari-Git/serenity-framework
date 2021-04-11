@@ -1,0 +1,46 @@
+{
+  "billTo": {
+    "customerNumber": "000102312261",
+    "addressCode": "C1"
+  },
+  "billLater": true,
+  "amount": 100,
+  "webOrderNumber": "12345",
+  "currency": "USD",
+  "promoCode": "WCJTEST1",
+  "sourceCode": "UCC",
+  "orderLines": [
+    {
+      "itemNumber": "CATJ-IND",
+      "quantity": 1,
+      "priceCode": "REG1Y",
+      "access": {
+        "accessPeriod": "Y-0001",
+        "isUsageBased": false,
+        "forceRenewal": false,
+        "autoRenewal": true,
+        "startDate": "2019-08-20",
+        "subType": "I",
+        "participants": [
+          {
+            "customerNumber": "000102312261",
+            "accessLevel": "AccessOnly",
+            "email": "cjtesting023@mms.org"
+          }
+        ]
+      }
+    }
+  ],
+  "controlGroupDate": "2020-03-25",
+  "controlGroupId": "UC241G",
+  "isOnApproval": false,
+  "isComp": true,
+  "creditCard": {
+    "token": "4111111111111111",
+    "number": "XXXXXXXXXXXX1111",
+    "paymentMethodCode": "VISA",
+    "expireMonth": 12,
+    "expireYear": 2026,
+    "securityCode": "123"
+  }
+}

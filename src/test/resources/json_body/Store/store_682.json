@@ -1,0 +1,70 @@
+{
+  "payment": {
+    "paymentAmount": 205.82,
+    "paymentType": "md_firstdata",
+    "creditCardInfo": {
+      "cardType": "AE",
+      "cardToken": "1911111548171111",
+      "customerName": "11A  AA",
+      "expirationMonth": 3,
+      "expirationYear": 2025,
+      "lastFour": "1111"
+    }
+  },
+  "customer": {
+    "firstName": "test1693qa",
+    "lastName": "test1693qa",
+    "email": "test1693qa@nejmemail.com",
+    "password": "12345678",
+    "role": "VP",
+    "suffix": "MD",
+    "primarySpecialty": "AI",
+    "nameOfOrganization": "MMS",
+    "catalystConnect": false,
+    "catalystSOI": false,
+    "regionCountry": "USA"
+  },
+  "order": {
+    "orderEntityId": "vP7d32",
+    "createdAt": "2019-01-01T12:00:00Z",
+    "totalDue": 205.82,
+    "storeId": 1,
+    "vatNumber": "12",
+    "storeCurrencyCode": "USD",
+    "billToAddress": {
+      "address": "\"405 Olive way\"",
+      "city": "Seattle",
+      "state": "WA",
+      "country": "USA",
+      "postalCode": "98101"
+    },
+    "orderLines": [
+      {
+        "orderLineNumber": 1,
+        "brand": "Catalyst",
+        "sku": "CAT-ANL-DFT",
+        "term": "M-0001",
+        "autoRenew": false,
+        "price": 205.82,
+        "tax": 16.82,
+        "quantity": 1,
+        "priceCode": "standard",
+        "promoCode": "WCJTEST1",
+        "doi": "2019-01-01",
+        "shipTo": {
+          "firstName": "Test",
+          "lastName": "User",
+          "email": "cjpr14qa@nejmemail.com",
+          "address": {
+            "addressLine1": "860 winter street",
+            "addressLine2": "B3",
+            "city": "Waltham",
+            "state": "MA",
+            "country": "USA",
+            "postalCode": "02451"
+          }
+        }
+      }
+    ]
+  }
+}

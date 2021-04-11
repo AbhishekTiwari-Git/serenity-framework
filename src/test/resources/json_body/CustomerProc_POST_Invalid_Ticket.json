@@ -1,0 +1,19 @@
+{
+  "subject": "Subscription question test",
+  "comment": "How can i get a free subcription for 1 year?",
+  "email": "",
+  "firstName": "John",
+  "lastName": "Doe",
+  "suffix": "Mr.",
+  "companyName": "Test Company",
+  "country": "USA",
+  "address1": "1 Main St.",
+  "address2": "apt 5",
+  "city": "Waltham",
+  "state": "MA",
+  "postalCode": "02451",
+  "external_id": "abc123",
+  "type": "task",
+  "priority": "normal",
+  "status": "new"
+}

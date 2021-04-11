@@ -1,0 +1,48 @@
+{
+    "items": [
+        {
+            "value": "MD",
+            "label": "MD"
+        },
+        {
+            "value": "DO",
+            "label": "DO"
+        },
+        {
+            "value": "MBBS",
+            "label": "MBBS"
+        },
+        {
+            "value": "MD/PhD",
+            "label": "MD/PhD"
+        },
+        {
+            "value": "PhD",
+            "label": "PhD"
+        },
+        {
+            "value": "MPH",
+            "label": "MPH"
+        },
+        {
+            "value": "PA-C",
+            "label": "PA-C"
+        },
+        {
+            "value": "NP/ApN",
+            "label": "NP/ApN"
+        },
+        {
+            "value": "RN",
+            "label": "RN"
+        },
+        {
+            "value": "Other",
+            "label": "Other"
+        },
+        {
+            "value": "None",
+            "label": "None"
+        }
+    ]
+}

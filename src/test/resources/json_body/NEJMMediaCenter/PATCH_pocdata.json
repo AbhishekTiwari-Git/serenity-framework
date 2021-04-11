@@ -1,0 +1,67 @@
+{
+    "authorDetails": [
+        {
+            "authorInstitution": "Brigham and Women's Hospital",
+            "authorCity": "Boston",
+            "authorState": "MA",
+            "authorCountry": "USA"
+        },
+        {
+            "authorInstitution": "Brigham and Women's Hospital",
+            "authorCity": "Boston",
+            "authorState": "MA",
+            "authorCountry": "USA"
+        }
+    ],
+    "isAvailable": false,
+    "contacts": [
+        {
+            "firstName": "Jerry",
+            "lastName": "Avorn",
+            "email": "javorn1@partners.org",
+            "email2": "",
+            "officePhone": "",
+            "mobilePhone": "",
+            "homePhone": "",
+            "otherPhone": "",
+            "type": 1,
+            "notes": ""
+        },
+        {
+            "firstName": "Jerry",
+            "lastName": "Avorn",
+            "email": "javorn1@partners.org",
+            "email2": "",
+            "officePhone": "",
+            "mobilePhone": "",
+            "homePhone": "",
+            "otherPhone": "",
+            "type": 1,
+            "notes": ""
+        },
+        {
+            "firstName": "Jerry",
+            "lastName": "Avorn",
+            "email": "javorn1@partners.org",
+            "email2": "",
+            "officePhone": "",
+            "mobilePhone": "",
+            "homePhone": "",
+            "otherPhone": "",
+            "type": 1,
+            "notes": ""
+        },
+        {
+            "firstName": "Jerry",
+            "lastName": "Avorn",
+            "email": "javorn1@partners.org",
+            "email2": "",
+            "officePhone": "",
+            "mobilePhone": "",
+            "homePhone": "",
+            "otherPhone": "",
+            "type": 1,
+            "notes": ""
+        }
+    ]
+}

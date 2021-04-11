@@ -1,0 +1,48 @@
+{
+  "payment": {
+    "paymentAmount": 205.82,
+    "paymentType": "cashondelivery"
+  },
+  "customer": {
+    "firstName": "2020.12.21.21.03.27AutoFname",
+    "lastName": "2020.12.21.21.03.27AutoLname",
+    "email": "2020.12.21.21.03.27automation@nejmemail.com",
+    "password": "12345678",
+    "role": "VP",
+    "suffix": "MD",
+    "primarySpecialty": "AI",
+    "nameOfOrganization": "MMS",
+    "catalystConnect": false,
+    "catalystSOI": false,
+    "regionCountry": "USA"
+  },
+  "order": {
+    "orderEntityId": "6Y5lgW",
+    "createdAt": "2019-01-01T12:00:00Z",
+    "totalDue": 205.82,
+    "storeId": 1,
+    "vatNumber": "1000001",
+    "storeCurrencyCode": "USD",
+    "billToAddress": {
+      "address": "\"916 W 2nd Ave\"",
+      "city": "Spokane",
+      "state": "WA",
+      "country": "USA",
+      "postalCode": "99201"
+    },
+    "orderLines": [
+      {
+        "orderLineNumber": 1,
+        "brand": "Catalyst",
+        "sku": "CAT-ANL-DFT",
+        "term": "Y-0001",
+        "autoRenew": true,
+        "price": 205.82,
+        "tax": 16.82,
+        "quantity": 1,
+        "promoCode": "WCJTEST1"
+      }
+    ],
+    "isRenewal": false
+  }
+}

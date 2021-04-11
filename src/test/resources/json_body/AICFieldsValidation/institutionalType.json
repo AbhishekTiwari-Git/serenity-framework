@@ -1,0 +1,104 @@
+{
+    "items": [
+        {
+            "value": "ias",
+            "label": "Association/Society(en)"
+        },
+        {
+            "value": "ibi",
+            "label": "Biotech Company(en)"
+        },
+        {
+            "value": "ifn",
+            "label": "Financial Organization(en)"
+        },
+        {
+            "value": "igv",
+            "label": "Government(en)"
+        },
+        {
+            "value": "hgp",
+            "label": "Group Medical Practice(en)"
+        },
+        {
+            "value": "hmo",
+            "label": "HMO Organization(en)"
+        },
+        {
+            "value": "hos_hgn",
+            "label": "Hospital, General(en)"
+        },
+        {
+            "value": "hos_hpt",
+            "label": "Hospital, Other(en)"
+        },
+        {
+            "value": "hos_hsc",
+            "label": "Hospital, Speciality(en)"
+        },
+        {
+            "value": "hos_hsy",
+            "label": "Hospital, System(en)"
+        },
+        {
+            "value": "hos_hth",
+            "label": "Hospital, Teaching(en)"
+        },
+        {
+            "value": "hos_hva",
+            "label": "Hospital, VA(en)"
+        },
+        {
+            "value": "ins",
+            "label": "Institution, Other(en)"
+        },
+        {
+            "value": "ilw",
+            "label": "Law Firm(en)"
+        },
+        {
+            "value": "fpg_hlt",
+            "label": "Long Term Care Facility(en)"
+        },
+        {
+            "value": "hcn",
+            "label": "Medical Clinic(en)"
+        },
+        {
+            "value": "im_imd",
+            "label": "Medical Device Company(en)"
+        },
+        {
+            "value": "imk",
+            "label": "Medical Market Research(en)"
+        },
+        {
+            "value": "ird",
+            "label": "Medical Research & Development(en)"
+        },
+        {
+            "value": "smd",
+            "label": "Medical School(en)"
+        },
+        {
+            "value": "imp",
+            "label": "Medical/Publication(en)"
+        },
+        {
+            "value": "iph",
+            "label": "Pharmaceutical Company (INS)(en)"
+        },
+        {
+            "value": "lbr",
+            "label": "Public Library(en)"
+        },
+        {
+            "value": "sot",
+            "label": "School, Other(en)"
+        },
+        {
+            "value": "sch",
+            "label": "University/College(en)"
+        }
+    ]
+} 

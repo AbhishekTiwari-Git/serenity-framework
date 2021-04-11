@@ -1,0 +1,15 @@
+{
+  "lastName": "2020.12.14.19.37.02lastName",
+  "firstName": "2020.12.14.19.37.02firstName",
+  "country": "USA",
+  "clientId": "fwt66yju6d62rkvwsgmfxweaerufhxd9",
+  "registrationSource": "OCCDEF2",
+  "emailPreferences": {
+    "catalystConnectOptIn": true,
+    "catalystConnectOptInDate": "2019-10-09T09:50:35.990Z",
+    "catalystSOIOptIn": true,
+    "catalystSOIOptInDate": "2019-10-09T09:50:35.990Z"
+  },
+  "nameOfOrganization": "Mass General Hospital",
+  "email": "2020.12.14.19.37.02automation@nejmemail.com"
+}

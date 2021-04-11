@@ -1,0 +1,1 @@
+select TOT_CST from mstord_m where ord_ctg = ? and CTM_NBR = ?

@@ -1,0 +1,40 @@
+{
+	"Title": {
+		"font-family": "mms-ff-quadraat-web-pro",
+		"font-size": "36px",
+		"color": "rgba(0, 0, 0, 0.8)"
+	},
+	"CRSuccessMessage": {
+		"font-family": "mms-ff-quadraat-web-pro",
+		"font-size": "18px",
+		"color": "rgba(0, 0, 0, 0.8)"
+	},
+	"CurrentAlertsMessage": {
+		"font-family": "mms-ff-quadraat-web-pro",
+		"font-size": "20px",
+		"color": "rgba(0, 0, 0, 0.8)"
+	},
+	"WeeklyTOCBullet": {
+		"font-family": "mms-ff-quadraat-web-pro",
+		"font-size": "18px",
+		"color": "rgba(0, 0, 0, 0.8)"
+	},
+	"ManageAlertsBtn": {
+		"font-family": "mms-ff-scala-sans-web-pro, sans-serif",
+		"font-size": "13px",
+		"color": "rgba(255, 255, 255, 1)",
+		"background-color": "rgba(11, 79, 130, 1)"
+	},
+	"BackToSiteBtn": {
+		"font-family": "mms-ff-scala-sans-web-pro, sans-serif",
+		"font-size": "13px",
+		"color": "rgba(0, 0, 0, 1)",
+		"background-color": "rgba(255, 255, 255, 1)"
+	},
+	"ContinueReadingBtn": {
+		"font-family": "mms-ff-scala-sans-web-pro, sans-serif",
+		"font-size": "13px",
+		"color": "rgba(0, 0, 0, 1)",
+		"background-color": "rgba(255, 255, 255, 1)"
+	}
+}

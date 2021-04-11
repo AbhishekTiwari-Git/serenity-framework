@@ -1,0 +1,23 @@
+[
+    {
+        "label": "All",
+        "value": "all",
+        "alias1": "all" 
+    },
+    {
+        "label": "catalyst",
+        "value": "catalyst" 
+    },
+    {
+        "label": "carryover",
+        "value": "carryover" 
+    },
+    {
+        "label": "cat-non-issue",
+        "value": "cat-non-issue" 
+    },
+    {
+        "label": "viewpoints",
+        "value": "viewpoints" 
+    }
+]

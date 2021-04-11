@@ -1,0 +1,12 @@
+{
+    "product": {
+        "magentoSku": "NEJ-NEJ",
+        "magentoTerm": "1 year",
+        "acsProductCode": "NEJ",
+        "acsTerm": "52",
+        "productName": "The New England Journal of Medicine",
+        "brandName": "NEJM",
+        "isDigital": true,
+        "productType": "Subscription Based"
+    }
+}

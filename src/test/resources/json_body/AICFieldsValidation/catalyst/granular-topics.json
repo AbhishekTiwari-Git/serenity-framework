@@ -1,0 +1,210 @@
+[
+    {
+        "label": "All",
+        "value": "all",
+        "semanticCode": "all" 
+    },
+    {
+        "label": "Value-Based Care",
+        "value": "cat-gt-001",
+        "semanticCode": "value-based-care",
+        "alias1": "Value Based Care" 
+    },
+    {
+        "label": "Bundled Payments",
+        "value": "cat-gt-002",
+        "semanticCode": "bundled-payments" 
+    },
+    {
+        "label": "Accountable Care Organizations (ACO)",
+        "value": "cat-gt-003",
+        "semanticCode": "accountable-care-organizations",
+        "alias1": "ACO",
+        "alias2": "aco" 
+    },
+    {
+        "label": "Payers",
+        "value": "cat-gt-004",
+        "semanticCode": "payers" 
+    },
+    {
+        "label": "Medicare",
+        "value": "cat-gt-005",
+        "semanticCode": "medicare" 
+    },
+    {
+        "label": "Medicaid",
+        "value": "cat-gt-006",
+        "semanticCode": "medicaid" 
+    },
+    {
+        "label": "Drug Pricing",
+        "value": "cat-gt-007",
+        "semanticCode": "drug-pricing" 
+    },
+    {
+        "label": "Pharma",
+        "value": "cat-gt-008",
+        "semanticCode": "pharma" 
+    },
+    {
+        "label": "Clinician Burnout and Resilience",
+        "value": "cat-gt-009",
+        "semanticCode": "clinician-burnout-and-resilience",
+        "alias1": "Clinician Burnout And Resilience" 
+    },
+    {
+        "label": "Team-Based Care",
+        "value": "cat-gt-010",
+        "semanticCode": "team-based-care",
+        "alias1": "Team Based Care" 
+    },
+    {
+        "label": "Patients as Consumers",
+        "value": "cat-gt-011",
+        "semanticCode": "patients-as-consumers" 
+    },
+    {
+        "label": "Patient Incentives",
+        "value": "cat-gt-012",
+        "semanticCode": "patient-incentives" 
+    },
+    {
+        "label": "Patient Experience",
+        "value": "cat-gt-013",
+        "semanticCode": "patient-experience" 
+    },
+    {
+        "label": "Patient Engagement",
+        "value": "cat-gt-014",
+        "semanticCode": "patient-engagement" 
+    },
+    {
+        "label": "Shared Decision-Making",
+        "value": "cat-gt-015",
+        "semanticCode": "shared-decision-making",
+        "alias1": "Shared Decision Making" 
+    },
+    {
+        "label": "Digital Health",
+        "value": "cat-gt-016",
+        "semanticCode": "digital-health" 
+    },
+    {
+        "label": "Electronic Health Records",
+        "value": "cat-gt-017",
+        "semanticCode": "electronic-health-records" 
+    },
+    {
+        "label": "Data Analytics",
+        "value": "cat-gt-018",
+        "semanticCode": "data-analytics" 
+    },
+    {
+        "label": "Outcomes Measurement",
+        "value": "cat-gt-019",
+        "semanticCode": "outcomes-measurement" 
+    },
+    {
+        "label": "Clinical Quality",
+        "value": "cat-gt-020",
+        "semanticCode": "clinical-quality" 
+    },
+    {
+        "label": "Patient Safety",
+        "value": "cat-gt-021",
+        "semanticCode": "patient-safety" 
+    },
+    {
+        "label": "Care Coordination",
+        "value": "cat-gt-022",
+        "semanticCode": "care-coordination" 
+    },
+    {
+        "label": "Care Management",
+        "value": "cat-gt-023",
+        "semanticCode": "care-management" 
+    },
+    {
+        "label": "Chronic Disease",
+        "value": "cat-gt-024",
+        "semanticCode": "chronic-disease" 
+    },
+    {
+        "label": "High Utilizers",
+        "value": "cat-gt-025",
+        "semanticCode": "high-utilizers" 
+    },
+    {
+        "label": "Opioids",
+        "value": "cat-gt-026",
+        "semanticCode": "opioids" 
+    },
+    {
+        "label": "Mental and Behavioral Health",
+        "value": "cat-gt-027",
+        "semanticCode": "mental-and-behavioral-health",
+        "alias1": "Mental And Behavioral Health" 
+    },
+    {
+        "label": "Population Health",
+        "value": "cat-gt-028",
+        "semanticCode": "population-health" 
+    },
+    {
+        "label": "Design Thinking",
+        "value": "cat-gt-029",
+        "semanticCode": "design-thinking" 
+    },
+    {
+        "label": "Primary Care",
+        "value": "cat-gt-030",
+        "semanticCode": "primary-care" 
+    },
+    {
+        "label": "Specialty Care",
+        "value": "cat-gt-031",
+        "semanticCode": "specialty-care" 
+    },
+    {
+        "label": "Social Determinants of Health (SDOH)",
+        "value": "cat-gt-032",
+        "semanticCode": "social-determinants-of-health",
+        "alias1": "Social Determinants of Health",
+        "alias2": "SDOH" 
+    },
+    {
+        "label": "Health Equity",
+        "value": "cat-gt-033",
+        "semanticCode": "health-equity" 
+    },
+    {
+        "label": "Integration and Consolidation",
+        "value": "cat-gt-034",
+        "semanticCode": "integration-and-consolidation",
+        "alias1": "Integration And Consolidation" 
+    },
+    {
+        "label": "Competition",
+        "value": "cat-gt-035",
+        "semanticCode": "competition" 
+    },
+    {
+        "label": "Payer-Provider Integration",
+        "value": "cat-gt-036",
+        "semanticCode": "payer-provider-integration",
+        "alias1": "Payer Provider Integration" 
+    },
+    {
+        "label": "Disruption and Innovation",
+        "value": "cat-gt-037",
+        "semanticCode": "disruption-and-innovation",
+        "alias1": "Disruption And Innovation" 
+    },
+    {
+        "label": "Policy and Reform",
+        "value": "cat-gt-038",
+        "semanticCode": "policy-and-reform",
+        "alias1": "Policy And Reform" 
+    }
+]

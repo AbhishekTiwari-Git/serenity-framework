@@ -1,0 +1,18 @@
+[
+    {
+        "label": "and",
+        "value": "AND" 
+    },
+    {
+        "label": "And",
+        "value": "AND" 
+    },
+    {
+        "label": "or",
+        "value": "OR" 
+    },
+    {
+        "label": "Or",
+        "value": "OR" 
+    }
+]

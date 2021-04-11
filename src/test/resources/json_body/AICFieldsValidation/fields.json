@@ -1,0 +1,94 @@
+{
+    "items": [
+        {
+            "name": "andOr"
+        },
+        {
+            "name": "boolean"
+        },
+        {
+            "name": "brand"
+        },
+        {
+            "name": "broadTopic"
+        },
+        {
+            "name": "buyingInfluence"
+        },
+        {
+            "name": "contentType"
+        },
+        {
+            "name": "country"
+        },
+        {
+            "name": "contactUsReason"
+        },
+        {
+            "name": "countryDomainGDPR"
+        },
+        {
+            "name": "dateRange"
+        },
+        {
+            "name": "granularTopic"
+        },
+        {
+            "name": "healthSystemSize"
+        },
+        {
+            "name": "hospitalSize"
+        },
+        {
+            "name": "institutionalType"
+        },
+        {
+            "name": "journals"
+        },
+        {
+            "name": "netPatientRevenue"
+        },
+        {
+            "name": "physicianOrgSize"
+        },
+        {
+            "name": "placeOfWorkOrStudy"
+        },
+        {
+            "name": "profitStatus"
+        },
+        {
+            "name": "primarySpecialty"
+        },
+        {
+            "name": "profession"
+        },
+        {
+            "name": "professionalCategory"
+        },
+        {
+            "name": "provinces"
+        },
+        {
+            "name": "role"
+        },
+        {
+            "name": "searchWithin"
+        },
+        {
+            "name": "sortBy"
+        },
+        {
+            "name": "state"
+        },
+        {
+            "name": "studentType"
+        },
+        {
+            "name": "suffix"
+        },
+        {
+            "name": "title"
+        }
+    ]
+}

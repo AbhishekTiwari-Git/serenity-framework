@@ -1,0 +1,72 @@
+{
+    "items": [
+        {
+            "value": "ANC",
+            "label": "Ancillary, Allied Provider (Pharmacy, Home Health Lab, Rehab, Post-Acute, etc.)"
+        },
+        {
+            "value": "CLI",
+            "label": "Clinic"
+        },
+        {
+            "value": "COL",
+            "label": "College or University"
+        },
+        {
+            "value": "GOV",
+            "label": "Government Agency"
+        },
+        {
+            "value": "HMO",
+            "label": "Health Plan/HMO/Insurer"
+        },
+        {
+            "value": "HOC",
+            "label": "Hospital, Community"
+        },
+        {
+            "value": "HOO",
+            "label": "Hospital, Other"
+        },
+        {
+            "value": "HOU",
+            "label": "Hospital, University or Teaching"
+        },
+        {
+            "value": "HSM",
+            "label": "Health System"
+        },
+        {
+            "value": "LTC",
+            "label": "Long-term Care/SNF"
+        },
+        {
+            "value": "MSP",
+            "label": "Medical School Program"
+        },
+        {
+            "value": "PHC",
+            "label": "Pharmaceutical Company"
+        },
+        {
+            "value": "PHO",
+            "label": "Physician Organization"
+        },
+        {
+            "value": "PRS",
+            "label": "Professional Services (Consulting, Financial, Legal, etc.)"
+        },
+        {
+            "value": "REA",
+            "label": "Research Facility"
+        },
+        {
+            "value": "TEV",
+            "label": "Technology/Equipment Vendor or Supplier"
+        },
+        {
+            "value": "OTH",
+            "label": "Other"
+        }
+    ]
+}

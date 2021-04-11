@@ -1,0 +1,50 @@
+name: Manually triggered workflow
+on:
+  workflow_dispatch:
+    inputs:
+      cycle:
+        description: 'Cycle to execute'
+        required: true
+        default: 'sys-api-icv'
+      home:
+        description: 'location'
+        required: false
+        default: 'The Octoverse'        
+jobs:
+  tests:
+    runs-on: [self-hosted]
+    name: Run UI Java CI
+    steps:
+    - uses: actions/checkout@v2
+    - name: Set up JDK 1.8
+      uses: actions/setup-java@v1
+      with:
+        java-version: 1.8
+    - name: Setup Maven
+      uses: stCarolas/setup-maven@v4
+    - uses: actions/cache@v1.1.0
+      with:
+        path: ~/.m2/repository
+        key: ${{ runner.os }}-maven-${{ hashFiles('**/pom.xml') }}
+        restore-keys: |
+          ${{ runner.os }}-maven-
+    - run: echo "$SHELL"
+    - name: Get secret from aws secret manager
+      uses: jcam/aws-secrets-manager-action@v0.2.13
+      with:
+          AWS_REGION: "us-east-1"
+          secrets: /qaauto/ucc
+          parse_json: true    
+    - run: google-chrome --version
+    - name: make executable
+      run: chmod +x /home/runner/actions-runner/_work/ucc-java-cucumber/ucc-java-cucumber/src/test/resources/webdriver/linux/chromedriver
+    - name: Run test 
+      run: |
+         echo "Hello ${{ github.event.inputs.cycle }}!"
+         mvn clean compile verify -Denvironment=qa -DversionId=19243 -Dheadless.mode=true -Dcucumber.filter.tags="${{ github.event.inputs.cycle }}" -Djira.username=${{ env._qaauto_ucc_username }} -Djira.password='${{ env._qaauto_ucc_password }}' serenity:aggregate -P dontUseTheForks
+    - name: report upload
+      uses: actions/upload-artifact@v1
+      with:
+        name: dist
+        path: target/site/reports/serenity-summary.html      
+        retention-days: 1

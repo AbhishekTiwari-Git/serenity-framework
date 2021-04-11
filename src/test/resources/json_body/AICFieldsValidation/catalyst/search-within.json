@@ -1,0 +1,26 @@
+[
+    {
+        "label": "freeText",
+        "value": "freeText" 
+    },
+    {
+        "label": "Title",
+        "value": "title" 
+    },
+    {
+        "label": "Abstract",
+        "value": "abstract" 
+    },
+    {
+        "label": "All",
+        "value": "freeText" 
+    },
+    {
+        "label": "fullText",
+        "value": "freeText" 
+    },
+    {
+        "label": "all",
+        "value": "freeText" 
+    }
+]

@@ -1,0 +1,15 @@
+{
+    "campaign": "C1234567",
+    "promo": "P1234567",
+    "promoDescription": "Promo 1234567",
+    "effectiveDate": "12/01/2020",
+    "endDate": "12/31/2025",
+    "productCode": "CATJ-IND",
+    "term": "invalid",
+    "currency": "USD",
+    "domestic": "N",
+    "professionalCategory": "",
+    "autoRenew": "Y",
+    "price": 229,
+    "quantity": 0
+}

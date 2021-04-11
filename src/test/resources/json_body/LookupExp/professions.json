@@ -1,0 +1,84 @@
+{
+    "items": [
+        {
+            "value": "CHI",
+            "label": "Chiropractor"
+        },
+        {
+            "value": "DTL",
+            "label": "Dentist"
+        },
+        {
+            "value": "PHD",
+            "label": "Doctoral Degree"
+        },
+        {
+            "value": "EMT",
+            "label": "Emergency Medical Tech"
+        },
+        {
+            "value": "SRM",
+            "label": "Executive/Senior Manager"
+        },
+        {
+            "value": "LAW",
+            "label": "Lawyer"
+        },
+        {
+            "value": "LIB",
+            "label": "Librarian"
+        },
+        {
+            "value": "MST",
+            "label": "Masters Degree"
+        },
+        {
+            "value": "COM",
+            "label": "Media Professional"
+        },
+        {
+            "value": "LAB",
+            "label": "Medical Tech & Lab"
+        },
+        {
+            "value": "THR",
+            "label": "Medical Therapist"
+        },
+        {
+            "value": "NMW",
+            "label": "Nurse Midwife"
+        },
+        {
+            "value": "OPT",
+            "label": "Optometrist"
+        },
+        {
+            "value": "DRU",
+            "label": "Pharmaceutical Company"
+        },
+        {
+            "value": "PHA",
+            "label": "Pharmacist"
+        },
+        {
+            "value": "POD",
+            "label": "Podiatrist"
+        },
+        {
+            "value": "PCO",
+            "label": "Psychology"
+        },
+        {
+            "value": "PUB",
+            "label": "Public Health Professional"
+        },
+        {
+            "value": "US",
+            "label": "Unspecified"
+        },
+        {
+            "value": "VET",
+            "label": "Veterinary Medicine"
+        }
+    ]
+}

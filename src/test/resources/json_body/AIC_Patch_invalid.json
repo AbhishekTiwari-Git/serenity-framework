@@ -1,0 +1,35 @@
+{
+  "Catalyst": {
+    "audienceType": "register",
+    "audienceTypeHistory": [
+      {
+        "changeDate": "2019-01-01T09:00:00.0Z"
+      }
+    ],
+    "organizationName": "Boston Children's Hospital"
+  },
+  "audienceType": "register",
+  "audienceTypeHistory": [
+    {
+      "changeDate": "2019-01-01T09:00:00.0Z"
+    }
+  ],
+  "birthYear": 1966,
+  "birthday": "2019-01-01",
+  "chiefMedicalResident": true,
+  "countryCode": "USA",
+  "email": "automation@example.com",
+  "firstName": "",
+  "lastName": "Society",
+  "middleName": "Medical",
+  "password": "password",
+  "phone": "781-434-0000",
+  "placeOfWorkCode": "HOS",
+  "primarySpecialtyCode": "CD",
+  "professionCode": "XYZ",
+  "professionalCategoryCode": "PHY",
+  "roleCode": "VP",
+  "secondarySpecialtyCode": "CD2",
+  "studentTypeCode": "XYZ",
+  "suffix": "DR"
+}

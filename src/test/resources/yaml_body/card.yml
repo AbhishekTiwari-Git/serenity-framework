@@ -1,0 +1,16 @@
+visa:
+  number: 4111111111111111
+  expiry: 12/2024
+  cvv: 111
+discover:
+  number: 6011000000000004
+  expiry: 12/2024
+  cvv: 222
+ae:
+  number: 378282246310005
+  expiry: 12/2024
+  cvv: 3333
+mc:
+  number: 5105105105105100
+  expiry: 12/2024
+  cvv: 444

@@ -1,0 +1,68 @@
+{
+    "products": [
+        {
+            "code": "AR1A-AMB",
+            "description": "NEJM Archive Site License",
+            "brand": "NEJM",
+            "isInstitutional": true,
+            "isDigital": true,
+            "productType": "Time Based"
+        },
+        {
+            "code": "CATJ-IND",
+            "description": "NEJM Catalyst Innovations in Care Delivery",
+            "brand": "Catalyst",
+            "isInstitutional": false,
+            "isDigital": true,
+            "productType": "Time Based"
+        },
+        {
+            "code": "CATJ-INST",
+            "description": "NEJM Catalyst Institution Site License",
+            "brand": "Catalyst",
+            "isInstitutional": true,
+            "isDigital": true,
+            "productType": "Time Based"
+        },
+        {
+            "code": "CNJ",
+            "description": "NEJM Review CME Program",
+            "brand": "NEJM",
+            "isInstitutional": false,
+            "isDigital": false,
+            "productType": "Subscription Based"
+        },
+        {
+            "code": "CNJ",
+            "description": "Temporary record",
+            "brand": "NEJM",
+            "isInstitutional": false,
+            "isDigital": false,
+            "productType": "Subscription Based"
+        },
+        {
+            "code": "NEJ",
+            "description": "The New England Journal of Medicine",
+            "brand": "NEJM",
+            "isInstitutional": false,
+            "isDigital": true,
+            "productType": "Subscription Based"
+        },
+        {
+            "code": "ONA-AMB",
+            "description": "NEJM Site License",
+            "brand": "NEJM",
+            "isInstitutional": true,
+            "isDigital": true,
+            "productType": "Time Based"
+        },
+        {
+            "code": "ONJ",
+            "description": "The New England Journal of Medicine",
+            "brand": "NEJM",
+            "isInstitutional": false,
+            "isDigital": true,
+            "productType": "Subscription Based"
+        }
+    ]
+}

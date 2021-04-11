@@ -1,0 +1,11 @@
+{
+    "orderNumber": "magento-order-number-12345",
+    "extOrderNumber": "Magento-12345",
+    "products": [
+        {
+            "productCode": "CATJ-IND",
+            "term": "Y-0001",
+            "brand": "catalyst"
+        }
+    ]
+}

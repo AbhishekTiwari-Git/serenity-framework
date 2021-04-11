@@ -1,0 +1,36 @@
+{
+    "items": [
+        {
+            "value": "$500 million+",
+            "label": "$500 million+"
+        },
+        {
+            "value": "$100 million to $499.9 million",
+            "label": "$100 million to $499.9 million"
+        },
+        {
+            "value": "$25 million to $99.9 million",
+            "label": "$25 million to $99.9 million"
+        },
+        {
+            "value": "$10 million to $24.9 million",
+            "label": "$10 million to $24.9 million"
+        },
+        {
+            "value": "$1 million to $9.9 million",
+            "label": "$1 million to $9.9 million"
+        },
+        {
+            "value": "$100,000 to $999,999",
+            "label": "$100,000 to $999,999"
+        },
+        {
+            "value": "Under $100,000",
+            "label": "Under $100,000"
+        },
+        {
+            "value": "None of the above",
+            "label": "None of the above"
+        }
+    ]
+}

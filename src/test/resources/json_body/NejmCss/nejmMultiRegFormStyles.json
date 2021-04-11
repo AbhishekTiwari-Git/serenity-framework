@@ -1,0 +1,176 @@
+{
+	"Header": {
+		"font-family": "mms-ff-quadraat-web-pro, serif",
+		"font-size": "40px",
+		"color": "rgba(26, 26, 26, 1)"
+	},
+	"Paragraph": {
+		"font-family": "mms-ff-scala-sans-web-pro",
+		"font-size": "16px"
+	},
+	"stepProgressBar": {
+		"cursor": "pointer",
+		"background-color": "rgba(157, 150, 178, 1)",
+		"color": "rgba(255, 255, 255, 1)",
+		"font-family": "mms-ff-scala-sans-web-pro",
+		"vertical-align": "middle"
+	},
+	"inputEmail": {
+		"placeholder": "Email Address",
+		"background-color": "rgba(255, 255, 255, 1)",
+		"color": "rgba(77, 77, 77, 1)",
+		"font-size": "16px",
+		"font-family": "mms-ff-scala-sans-web-pro, sans-serif"
+	},
+	"continueBtn": {
+		"font-family": "mms-ff-scala-sans-web-pro, sans-serif",
+		"color": "rgba(255, 255, 255, 1)",
+		"background-color": "rgba(11, 79, 130, 1)",
+		"font-size": "13px"
+	},
+	"privacyPolicy": {
+		"font-family": "mms-ff-quadraat-web-pro",
+		"font-size": "18px",
+		"color": "rgba(11, 79, 130, 1)"
+	},
+	"CountryDropDown": {
+		"font-family": "mms-ff-scala-sans-web-pro, sans-serif",
+		"font-size": "16px",
+		"color": "rgba(77, 77, 77, 1)"
+	},
+	"CountryLabel": {
+		"text": "Country/Region",
+		"font-family": "mms-ff-scala-sans-web-pro, sans-serif",
+		"font-size": "12px",
+		"color": "rgba(50, 106, 146, 1)"
+	},
+	"mainErrorMsg": {
+		"font-family": "mms-ff-scala-sans-web-pro",
+		"font-size": "15px",
+		"color": "rgba(211, 0, 0, 1)"
+	},
+	"ProfCatErrorMsg": {
+		"font-family": "mms-ff-quadraat-web-pro",
+		"font-size": "16px",
+		"color": "rgba(211, 0, 0, 1)"
+	},
+	"RoleErrorMsg": {
+		"font-family": "mms-ff-quadraat-web-pro",
+		"font-size": "16px",
+		"color": "rgba(211, 0, 0, 1)"
+	},
+	"PlaceErrorMsg": {
+		"font-family": "mms-ff-quadraat-web-pro",
+		"font-size": "16px",
+		"color": "rgba(211, 0, 0, 1)"
+	},
+	"CountryErrorMsg": {
+		"font-family": "mms-ff-quadraat-web-pro",
+		"font-size": "16px",
+		"color": "rgba(211, 0, 0, 1)"
+	},
+	"EmailErrorMsg": {
+		"font-family": "mms-ff-quadraat-web-pro",
+		"font-size": "16px",
+		"color": "rgba(211, 0, 0, 1)"
+	},
+	"ProfCatDropDown": {
+		"font-family": "mms-ff-scala-sans-web-pro, sans-serif",
+		"font-size": "16px",
+		"color": "rgba(153, 153, 153, 1)"
+	},
+	"inputOrg": {
+		"font-family": "mms-ff-scala-sans-web-pro, sans-serif",
+		"font-size": "16px",
+		"color": "rgba(77, 77, 77, 1)",
+		"placeholder": "Name of Organization"
+	},
+	"placeDropDown": {
+		"font-family": "mms-ff-scala-sans-web-pro, sans-serif",
+		"font-size": "16px",
+		"color": "rgba(153, 153, 153, 1)"
+	},
+	"roleDropDown": {
+		"font-family": "mms-ff-scala-sans-web-pro, sans-serif",
+		"font-size": "16px",
+		"color": "rgba(153, 153, 153, 1)"
+	},
+	"showPassword": {
+		"cursor": "pointer",
+		"font-size": "20px",
+		"color": "rgba(153, 153, 153, 1)"
+	},
+	"weakPassword": {
+		"font-family": "mms-ff-scala-sans-web-pro",
+		"font-size": "16px"
+	},
+	"mediumPassword": {
+		"font-family": "mms-ff-scala-sans-web-pro",
+		"font-size": "16px"
+	},
+	"strongPassword": {
+		"font-family": "mms-ff-scala-sans-web-pro",
+		"font-size": "16px"
+	},
+	"createPassword": {
+		"font-family": "mms-ff-scala-sans-web-pro, sans-serif",
+		"font-size": "16px",
+		"color": "rgba(77, 77, 77, 1)"
+	},
+	"LastName": {
+		"font-family": "mms-ff-scala-sans-web-pro, sans-serif",
+		"font-size": "16px",
+		"color": "rgba(77, 77, 77, 1)"
+	},
+	"FirstName": {
+		"font-family": "mms-ff-scala-sans-web-pro, sans-serif",
+		"font-size": "16px",
+		"color": "rgba(77, 77, 77, 1)"
+	},
+	"personalInfoLanguage": {
+		"font-family": "mms-ff-quadraat-web-pro",
+		"font-size": "18px",
+		"color": "rgba(77, 77, 77, 1)"
+	},
+	"unsubscribeLanguage": {
+		"font-family": "mms-ff-quadraat-web-pro",
+		"font-size": "18px",
+		"color": "rgba(77, 77, 77, 1)"
+	},
+	"nejmSoiCheckbox": {
+		"font-family": "mms-ff-scala-sans-web-pro, sans-serif",
+		"font-size": "16px",
+		"color": "rgba(77, 77, 77, 1)"
+	},
+	"rememberMeCheckbox": {
+		"font-family": "mms-ff-scala-sans-web-pro, sans-serif",
+		"font-size": "16px",
+		"color": "rgba(77, 77, 77, 1)"
+	},
+	"createAccountBtn": {
+		"font-family": "mms-ff-scala-sans-web-pro, sans-serif",
+		"font-size": "13px",
+		"color": "rgba(255, 255, 255, 1)",
+		"background-color": "rgba(11, 79, 130, 1)"
+	},
+	"termsLink": {
+		"font-family": "mms-ff-quadraat-web-pro",
+		"font-size": "18px",
+		"color": "rgba(11, 79, 130, 1)"
+	},
+	"fNameError": {
+		"font-family": "mms-ff-quadraat-web-pro",
+		"font-size": "16px",
+		"color": "rgba(211, 0, 0, 1)"
+	},
+	"lNameError": {
+		"font-family": "mms-ff-quadraat-web-pro",
+		"font-size": "16px",
+		"color": "rgba(211, 0, 0, 1)"
+	},
+	"passwordError": {
+		"font-family": "mms-ff-quadraat-web-pro",
+		"font-size": "16px",
+		"color": "rgba(211, 0, 0, 1)"
+	}
+}

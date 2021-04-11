@@ -1,0 +1,46 @@
+{
+    "items": [
+        {
+            "value": "PHY",
+            "label": "Physician",
+            "ACSProfessionalCategory": "PHY",
+            "ACSBusinessTitle": ""
+        },
+        {
+            "value": "RES",
+            "label": "Resident",
+            "ACSProfessionalCategory": "RES",
+            "ACSBusinessTitle": ""
+        },
+        {
+            "value": "PA",
+            "label": "Physician Assistant",
+            "ACSProfessionalCategory": "OTH",
+            "ACSBusinessTitle": "PAS"
+        },
+        {
+            "value": "NUR",
+            "label": "Nurse",
+            "ACSProfessionalCategory": "OTH",
+            "ACSBusinessTitle": "NUR"
+        },
+        {
+            "value": "NP",
+            "label": "Nurse Practitioner",
+            "ACSProfessionalCategory": "OTH",
+            "ACSBusinessTitle": "NPR"
+        },
+        {
+            "value": "STU",
+            "label": "Student",
+            "ACSProfessionalCategory": "STU",
+            "ACSBusinessTitle": ""
+        },
+        {
+            "value": "OTH",
+            "label": "Other",
+            "ACSProfessionalCategory": "OTH",
+            "ACSBusinessTitle": ""
+        }
+    ]
+}

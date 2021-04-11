@@ -1,0 +1,12 @@
+{
+    "items": [
+        {
+            "value": "For profit",
+            "label": "For profit"
+        },
+        {
+            "value": "Non-profit",
+            "label": "Non-profit"
+        }
+    ]
+}

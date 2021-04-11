@@ -1,0 +1,52 @@
+{
+    "items": [
+        {
+            "value": "AB",
+            "label": "Alberta"
+        },
+        {
+            "value": "BC",
+            "label": "British Columbia"
+        },
+        {
+            "value": "MB",
+            "label": "Manitoba"
+        },
+        {
+            "value": "NT",
+            "label": "N.W Territory"
+        },
+        {
+            "value": "NB",
+            "label": "New Brunswick"
+        },
+        {
+            "value": "NL",
+            "label": "Newfoundland"
+        },
+        {
+            "value": "NS",
+            "label": "Nova Scotia"
+        },
+        {
+            "value": "ON",
+            "label": "Ontario"
+        },
+        {
+            "value": "PE",
+            "label": "Prince Edward Island"
+        },
+        {
+            "value": "QC",
+            "label": "Quebec"
+        },
+        {
+            "value": "SK",
+            "label": "Saskatchewan"
+        },
+        {
+            "value": "YT",
+            "label": "Yukon"
+        }
+    ]
+}

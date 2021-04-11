@@ -1,0 +1,22 @@
+{
+"CEO" : "CEO/President/Board Member",
+"CSU" : "C-Suite",
+"VP"  : "VP/Director",
+"MGR" : "Manager",
+"CON" : "Consultant",
+"BEO" : "Business Executive – Other",
+"CMO" : "Chief Medical Officer",
+"VMA" : "VP of Medical Affairs",
+"CCS" : "Chief or Chair Service/Department (i.e., Orthopedics, Cardiology, etc.)",
+"AC"  : "Associate Chief or Vice of Chair Service/Department",
+"CSL" : "Chief of Service Line (i.e., Patient safety, Quality assurance, etc.)",
+"VSL" : "VP, Director, Manager of Service Line",
+"DMS" : "Dean of Medical School",
+"PRF" : "Program/Residency/Fellowship Director",
+"CLI" : "Clinician",
+"RSD" : "Resident",
+"STU" : "Student",
+"EDU" : "Educator",
+"RES" : "Researcher",
+"OTH" : "Other"
+}
